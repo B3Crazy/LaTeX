@@ -1,5 +1,6 @@
 \babel@toc {english}{}\relax 
 \contentsline {section}{\numberline {1}Introduction}{1}{}%
+\contentsline {subsection}{\numberline {1.1}Background and significance}{1}{}%
 \contentsline {section}{\numberline {2}Methods}{2}{}%
 \contentsline {subsection}{\numberline {2.1}What type of research is the objective?}{2}{}%
 \contentsline {subsection}{\numberline {2.2}What are the important elements/ objects?}{2}{}%
