@@ -4,7 +4,7 @@ The top-level auxiliary file: report_template_multipleFiles_Main.aux
 Reallocating 'name_of_file' (item size: 1) to 9 items.
 The style file: biblatex.bst
 Reallocating 'name_of_file' (item size: 1) to 39 items.
-Reallocating 'name_of_file' (item size: 1) to 7 items.
+Reallocating 'name_of_file' (item size: 1) to 11 items.
 Reallocating 'name_of_file' (item size: 1) to 47 items.
 A level-1 auxiliary file: report_template_multipleFiles_Introduction.aux
 Reallocating 'name_of_file' (item size: 1) to 42 items.
@@ -25,50 +25,48 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: report_template_multipleFiles_Main-blx.bib
-Database file #2: report.bib
-Warning--I didn't find a database entry for "anderson2007violent"
+Database file #2: referances.bib
 Biblatex version: 3.21
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
-You've used 1 entry,
+You've used 13 entries,
             6402 wiz_defined-function locations,
-            1205 strings with 9163 characters,
-and the built_in function-call counts, 1534 in all, are:
-= -- 73
-> -- 70
-< -- 1
-+ -- 49
-- -- 28
-* -- 32
-:= -- 370
+            1335 strings with 22699 characters,
+and the built_in function-call counts, 106034 in all, are:
+= -- 8418
+> -- 1510
+< -- 420
++ -- 2879
+- -- 611
+* -- 8190
+:= -- 11954
 add.period$ -- 0
-call.type$ -- 1
-change.case$ -- 0
-chr.to.int$ -- 42
-cite$ -- 0
-duplicate$ -- 11
-empty$ -- 104
-format.name$ -- 0
-if$ -- 325
+call.type$ -- 13
+change.case$ -- 209
+chr.to.int$ -- 60
+cite$ -- 24
+duplicate$ -- 10622
+empty$ -- 9407
+format.name$ -- 869
+if$ -- 21501
 int.to.chr$ -- 0
-int.to.str$ -- 0
+int.to.str$ -- 29
 missing$ -- 0
-newline$ -- 20
-num.names$ -- 0
-pop$ -- 47
+newline$ -- 542
+num.names$ -- 581
+pop$ -- 4364
 preamble$ -- 1
-purify$ -- 0
+purify$ -- 280
 quote$ -- 0
-skip$ -- 78
+skip$ -- 2434
 stack$ -- 0
-substring$ -- 154
-swap$ -- 1
-text.length$ -- 20
-text.prefix$ -- 0
+substring$ -- 16060
+swap$ -- 2275
+text.length$ -- 377
+text.prefix$ -- 12
 top$ -- 1
-type$ -- 22
+type$ -- 430
 warning$ -- 0
-while$ -- 64
+while$ -- 1431
 width$ -- 0
-write$ -- 20
-(There was 1 warning)
+write$ -- 530
