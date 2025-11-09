@@ -1,0 +1,742 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nyt/global//global/global/global}
+  \entry{Anderson_Bushman_2018}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=ACA}{%
+         family={Anderson},
+         familyi={A\bibinitperiod},
+         given={Craig\bibnamedelima A},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=BBJ}{%
+         family={Bushman},
+         familyi={B\bibinitperiod},
+         given={Brad\bibnamedelima J},
+         giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ACABBJ1}
+    \strng{fullhash}{ACABBJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{number}{2}
+    \field{pages}{386\bibrangedash 413}
+    \field{title}{Media Violence and the General Aggression Model}
+    \field{volume}{74}
+    \field{journaltitle}{Journal of Social Issues}
+    \field{year}{2018}
+  \endentry
+
+  \entry{Avci_Baams_Kretschmer_2024}{article}{}{}
+    \name{author}{3}{}{%
+      {{hash=AH}{%
+         family={Avci},
+         familyi={A\bibinitperiod},
+         given={Hamide},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=BL}{%
+         family={Baams},
+         familyi={B\bibinitperiod},
+         given={Laura},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=KT}{%
+         family={Kretschmer},
+         familyi={K\bibinitperiod},
+         given={Tina},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AHBLKT1}
+    \strng{fullhash}{AHBLKT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2024}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{abstract}{%
+    Social media have become a new context for adolescent identity development.
+  However, it is challenging to build a thorough understanding of how social
+  media and identity development are related because studies refer to different
+  facets of social media engagement and use diverse concepts related to
+  identity. This review synthesizes research on the relationships between
+  quantity and quality of social media use and different dimensions of identity
+  development, including identity exploration and commitment, self-concept
+  clarity, and identity distress. The search conducted across four databases
+  yielded 4,467 records, of which 32 studies were included in the analysis,
+  comprising 19,658 adolescents with a mean age of 16.43 years (SD = 1.81)
+  and an age range of eight to 26 years. Active participation in social media,
+  rather than the amount of time spent on it, was associated with more identity
+  exploration. Authenticity on social media, not idealized self-presentation,
+  correlated with higher self-concept clarity. Additionally, adolescents who
+  engaged in comparisons on social media demonstrated higher levels of identity
+  exploration and identity distress. Overall, it seems to matter more for
+  identity development what young people do on social media than how much time
+  they spend on it.%
+    }
+    \verb{doi}
+    \verb 10.1007/s40894-024-00251-1
+    \endverb
+    \field{number}{2}
+    \field{pages}{219\bibrangedash 236}
+    \field{title}{A Systematic Review of Social Media Use and Adolescent
+  Identity Development}
+    \verb{url}
+    \verb https://doi.org/10.1007/s40894-024-00251-1
+    \endverb
+    \field{volume}{10}
+    \field{journaltitle}{Adolescent Research Review}
+    \field{year}{2024}
+  \endentry
+
+  \entry{Blakemore_Robbins_2012}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=BSJ}{%
+         family={Blakemore},
+         familyi={B\bibinitperiod},
+         given={Sarah-Jayne},
+         giveni={S\bibinithyphendelim J\bibinitperiod},
+      }}%
+      {{hash=RTW}{%
+         family={Robbins},
+         familyi={R\bibinitperiod},
+         given={Trevor\bibnamedelima W.},
+         giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BSJRTW1}
+    \strng{fullhash}{BSJRTW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{abstract}{%
+    Adolescence is a developmental period characterized by increased
+  risk-taking behavior, which can lead to adverse outcomes such as substance
+  abuse, sexually transmitted infections and unintentional injuries. Here we
+  review recent research on the neurobiological and psychological mechanisms
+  underlying adolescent risk taking. We focus on studies that have used
+  neuroimaging techniques to investigate brain development during adolescence,
+  as well as behavioral studies that have examined decision-making processes in
+  adolescents. We discuss how changes in brain structure and function during
+  adolescence may contribute to increased risk-taking behavior, and we consider
+  the implications of this research for interventions aimed at reducing risky
+  behavior in adolescents.%
+    }
+    \verb{doi}
+    \verb 10.1038/nn.3177
+    \endverb
+    \field{number}{9}
+    \field{pages}{1184\bibrangedash 1191}
+    \field{title}{Decision-making in the adolescent brain}
+    \verb{url}
+    \verb https://de.scribd.com/document/235185658/Blakemore-Robbins-2012
+    \endverb
+    \field{volume}{15}
+    \field{journaltitle}{Nature Neuroscience}
+    \field{month}{09}
+    \field{year}{2012}
+  \endentry
+
+  \entry{Bushman_2025}{inbook}{}{}
+    \name{author}{4}{}{%
+      {{hash=BBJ}{%
+         family={Bushman},
+         familyi={B\bibinitperiod},
+         given={Brad\bibnamedelima J.},
+         giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=GA}{%
+         family={Gabbiadini},
+         familyi={G\bibinitperiod},
+         given={Alessandro},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GT}{%
+         family={Greitemeyer},
+         familyi={G\bibinitperiod},
+         given={Tobias},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=KB}{%
+         family={Krah{\'e}},
+         familyi={K\bibinitperiod},
+         given={Barbara},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=CDA}{%
+         family={Christakis},
+         familyi={C\bibinitperiod},
+         given={Dimitri\bibnamedelima A.},
+         giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=HL}{%
+         family={Hale},
+         familyi={H\bibinitperiod},
+         given={Lauren},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer Nature Switzerland}%
+    }
+    \strng{namehash}{BBJ+1}
+    \strng{fullhash}{BBJGAGTKB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2025}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{abstract}{%
+    Although video games can teach various skills, violent video games also
+  teach players how to behave more aggressively. Hundreds of studies using
+  different methodologies have shown that violent video games can increase
+  aggressive thoughts, feelings, and behavior and can decrease empathy and
+  prosociality. Longitudinal studies have found that habitually playing violent
+  video games contributes to the development of aggressive behavior from
+  childhood to young adulthood. Several established psychological theories can
+  explain violent video game effects. Through observational learning, violent
+  video games lead to positive evaluations of aggression and the formation of
+  aggressive scripts. Habitually playing violent video games also leads to
+  emotional desensitization and lower empathy with victims of real-world
+  violence. The General Aggression Model proposes that playing violent games
+  may lead to the learning, rehearsal, and reinforcement of aggression-related
+  patterns of thinking that contribute to the development of aggression as a
+  stable personality trait. Insights are offered for future research on topics
+  such as virtual and augmented reality technologies, individual differences,
+  and contextual factors that may moderate violent video game effects.
+  Promising interventions for reducing violent video game effects are
+  discussed. Suggestions to pediatricians and parents are offered.%
+    }
+    \field{booktitle}{Handbook of Children and Screens: Digital Media,
+  Development, and Well-Being from Birth Through Adolescence}
+    \verb{doi}
+    \verb 10.1007/978-3-031-69362-5_79
+    \endverb
+    \field{isbn}{978-3-031-69362-5}
+    \field{pages}{581\bibrangedash 587}
+    \field{title}{Violent Video Games and Aggression}
+    \verb{url}
+    \verb https://doi.org/10.1007/978-3-031-69362-5_79
+    \endverb
+    \list{location}{1}{%
+      {Cham}%
+    }
+    \field{year}{2025}
+  \endentry
+
+  \entry{Carnagey_Anderson_Bushman_2007}{article}{}{}
+    \name{author}{3}{}{%
+      {{hash=CNL}{%
+         family={Carnagey},
+         familyi={C\bibinitperiod},
+         given={Nicholas\bibnamedelima L.},
+         giveni={N\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=ACA}{%
+         family={Anderson},
+         familyi={A\bibinitperiod},
+         given={Craig\bibnamedelima A.},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=BBJ}{%
+         family={Bushman},
+         familyi={B\bibinitperiod},
+         given={Brad\bibnamedelima J.},
+         giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \keyw{Violent video games, Violent media, Desensitization, Helping,
+  Prosocial}
+    \strng{namehash}{CNLACABBJ1}
+    \strng{fullhash}{CNLACABBJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{abstract}{%
+    Past research shows that violent video game exposure increases aggressive
+  thoughts, angry feelings, physiological arousal, aggressive behaviors, and
+  decreases helpful behaviors. However, no research has experimentally examined
+  violent video game effects on physiological desensitization, defined as
+  showing less physiological arousal to violence in the real world after
+  exposure to video game violence in the virtual world. This experiment
+  attempts to fill this gap. Participants reported their media habits and then
+  played one of eight violent or nonviolent video games for 20min. Next,
+  participants watched a 10-min videotape containing scenes of real-life
+  violence while heart rate (HR) and galvanic skin response (GSR) were
+  monitored. Participants who previously played a violent video game had lower
+  HR and GSR while viewing filmed real violence, demonstrating a physiological
+  desensitization to violence. Results are interpreted using an expanded
+  version of the General Aggression Model. Links between desensitization,
+  antisocial, and prosocial behavior are discussed.%
+    }
+    \verb{doi}
+    \verb https://doi.org/10.1016/j.jesp.2006.05.003
+    \endverb
+    \field{issn}{0022-1031}
+    \field{number}{3}
+    \field{pages}{489\bibrangedash 496}
+    \field{title}{The effect of video game violence on physiological
+  desensitization to real-life violence}
+    \verb{url}
+    \verb https://www.sciencedirect.com/science/article/pii/S0022103106000825
+    \endverb
+    \field{volume}{43}
+    \field{journaltitle}{Journal of Experimental Social Psychology}
+    \field{year}{2007}
+  \endentry
+
+  \entry{Fikkers_Piotrowski_Lugtig_Valkenburg_2016}{article}{}{}
+    \name{author}{4}{}{%
+      {{hash=FK}{%
+         family={Fikkers},
+         familyi={F\bibinitperiod},
+         given={K.M.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=PJ}{%
+         family={Piotrowski},
+         familyi={P\bibinitperiod},
+         given={J.T.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=LP}{%
+         family={Lugtig},
+         familyi={L\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=VP}{%
+         family={Valkenburg},
+         familyi={V\bibinitperiod},
+         given={P.M.},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FK+1}
+    \strng{fullhash}{FKPJLPVP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{The role of perceived peer norms in the relationship between
+  media violence exposure and adolescents’ aggression}
+    \field{volume}{19}
+    \field{journaltitle}{Media Psychology}
+    \field{year}{2016}
+  \endentry
+
+  \entry{Hartmann_Krakowiak_Tsay-Vogel_2014}{article}{}{}
+    \name{author}{3}{}{%
+      {{hash=HT}{%
+         family={Hartmann},
+         familyi={H\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=KM}{%
+         family={Krakowiak},
+         familyi={K\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=TVM}{%
+         family={Tsay-Vogel},
+         familyi={T\bibinithyphendelim V\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {English}%
+    }
+    \list{publisher}{1}{%
+      {Routledge}%
+    }
+    \strng{namehash}{HTKMTVM1}
+    \strng{fullhash}{HTKMTVM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{abstract}{%
+    Mechanisms of moral disengagement in violent video game play have recently
+  received considerable attention among communication scholars. To date,
+  however, no study has analyzed the prevalence of moral disengagement factors
+  in violent video games. To fill this research gap, the present approach
+  includes both a systematic literature review and a content analysis of moral
+  disengagement cues embedded in the narratives and actual game play of 17
+  top-ranked first-person shooters (PC). Findings suggest that moral
+  disengagement factors are frequently embedded in first-person shooters, but
+  their prevalence varies considerably. Most violent video games include
+  justifications of the portrayed violence, a distorted portrayal of
+  consequences, and dehumanization of opponents. Implications of the findings
+  for research on violent games are discussed. {\textcopyright} 2014
+  {\textcopyright} 2014 National Communication Association.%
+    }
+    \verb{doi}
+    \verb 10.1080/03637751.2014.922206
+    \endverb
+    \field{issn}{0363-7751}
+    \field{number}{3}
+    \field{pages}{310\bibrangedash 332}
+    \field{title}{How violent video games communicate violence: A literature
+  review and content analysis of moral disengagement factors}
+    \field{volume}{81}
+    \field{journaltitle}{Communication Monographs}
+    \field{year}{2014}
+  \endentry
+
+  \entry{Hartmann_Klimmt_2017}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=HT}{%
+         family={Hartmann},
+         familyi={H\bibinitperiod},
+         given={Tilo},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=KC}{%
+         family={Klimmt},
+         familyi={K\bibinitperiod},
+         given={Christoph},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HTKC1}
+    \strng{fullhash}{HTKC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{abstract}{%
+    On average, girls and women are less involved with video games than are
+  boys and men, and when they do play, they often prefer different games. This
+  article reports two studies that investigated the dislikes of German females
+  with regard to video games. Study 1 applied conjoint analysis to female
+  respondents’ (N= 317) ratings of fictional video games and demonstrated
+  that lack of meaningful social interaction, followed by violent content and
+  sexual gender role stereotyping of game characters, were the most important
+  reasons why females disliked the games. Study 2, an online survey (N= 795),
+  revealed that female respondents were less attracted to competitive elements
+  in video games, suggesting an explanation for gender-specific game
+  preferences. These findings are discussed with respect to communication
+  theory on interactive entertainment and their implications for applied video
+  game design.%
+    }
+    \verb{doi}
+    \verb 10.1111/j.1083-6101.2006.00301.x
+    \endverb
+    \verb{eprint}
+    \verb https://academic.oup.com/jcmc/article-pdf/11/4/910/22317676/jjcmcom09
+    \verb 10.pdf
+    \endverb
+    \field{issn}{1083-6101}
+    \field{number}{4}
+    \field{pages}{910\bibrangedash 931}
+    \field{title}{Gender and Computer Games: Exploring Females’ Dislikes}
+    \verb{url}
+    \verb https://doi.org/10.1111/j.1083-6101.2006.00301.x
+    \endverb
+    \field{volume}{11}
+    \field{journaltitle}{Journal of Computer-Mediated Communication}
+    \field{month}{07}
+    \field{year}{2017}
+  \endentry
+
+  \entry{Lacko_Macháčková_Šmahel_2024}{article}{}{}
+    \name{author}{3}{}{%
+      {{hash=LD}{%
+         family={Lacko},
+         familyi={L\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=MH}{%
+         family={Machackova},
+         familyi={M\bibinitperiod},
+         given={Hana},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Smahel},
+         familyi={S\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \keyw{Violent video games, Aggression, Empathy, Within-person effects,
+  Adolescents, Longitudinal research}
+    \strng{namehash}{LDMHSD1}
+    \strng{fullhash}{LDMHSD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2024}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{abstract}{%
+    The associations between exposure to violent video games (VVG) and
+  aggression/empathy have been extensively studied. VVG are often depicted as
+  triggers for increased aggression and decreased empathy in line with the
+  General Aggression Model. However, longitudinal evidence that distinguishes
+  within- and between-person effects and focuses on various dimensions of
+  aggression/empathy remains scarce. Drawing on representative sample of 3010
+  Czech adolescents (aged 13–17), data were collected over four waves to
+  measure physical and verbal aggression, and cognitive and affective empathy.
+  VVG was evaluated based on open-ended responses. A random-intercept
+  cross-lagged panel model was employed to differentiate within- and
+  between-person associations. VVG positively correlated with cognitive
+  empathy, verbal aggression, and physical aggression at the between-person
+  level. At the within-person level, two hypotheses were examined: the
+  selection effect (effects of changes in aggression/empathy on changes in VVG)
+  and the desensitization effect (effects of changes in VVG on alterations in
+  aggression/empathy). All desensitization effects were statistically
+  insignificant. Regarding selection effects, an increase in affective empathy
+  was linked to a decrease in VVG. Conversely, an increase in physical
+  aggression was associated with an increase in VVG, both positively and
+  negatively, depending on the wave of data collection. Furthermore, the
+  moderation effects of age and gender were tested at the within-person level.
+  The positive (but not negative) effect of physical aggression on exposure to
+  VVG was moderated by age, with a stronger effect evident among younger
+  participants. These findings challenge the portrayal of VVG as a significant
+  contributor to heightened aggression and decreased empathy in adolescents.%
+    }
+    \verb{doi}
+    \verb https://doi.org/10.1016/j.chb.2024.108341
+    \endverb
+    \field{issn}{0747-5632}
+    \field{pages}{108341}
+    \field{title}{Does violence in video games impact aggression and empathy? A
+  longitudinal study of Czech adolescents to differentiate within- and
+  between-person effects}
+    \verb{url}
+    \verb https://www.sciencedirect.com/science/article/pii/S0747563224002097
+    \endverb
+    \field{volume}{159}
+    \field{journaltitle}{Computers in Human Behavior}
+    \field{year}{2024}
+  \endentry
+
+  \entry{Przybylski_Warstein_2019}{report}{}{}
+    \name{author}{2}{}{%
+      {{hash=PAK}{%
+         family={Przybylski},
+         familyi={P\bibinitperiod},
+         given={Andrew\bibnamedelima K},
+         giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=WN}{%
+         family={Warstein},
+         familyi={W\bibinitperiod},
+         given={Netta},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Royal Society Open Science}%
+    }
+    \strng{namehash}{PAKWN1}
+    \strng{fullhash}{PAKWN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{P}
+    \field{sortinithash}{P}
+    \verb{doi}
+    \verb 10.1098/rsos.171474
+    \endverb
+    \field{number}{2}
+    \field{title}{Violent video game engagement is not associated with
+  adolescents' aggressive behaviour: evidence from a registered report}
+    \verb{url}
+    \verb https://doi.org/10.1098/rsos.171474
+    \endverb
+    \field{volume}{6}
+    \field{year}{2019}
+  \endentry
+
+  \entry{Ramasubramanian_Banjo_2020}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=RS}{%
+         family={Ramasubramanian},
+         familyi={R\bibinitperiod},
+         given={Srividya},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=BOO}{%
+         family={Banjo},
+         familyi={B\bibinitperiod},
+         given={Omotayo\bibnamedelima O},
+         giveni={O\bibinitperiod\bibinitdelim O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RSBOO1}
+    \strng{fullhash}{RSBOO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{abstract}{%
+    In this essay, we advance the Critical Media Effects (CME) framework as a
+  way of bridging two major subfields of communication that seldom speak to one
+  another: media effects scholarship and critical cultural communication.
+  Critical Media Effects is situated within the dominant mode of social
+  scientific theorizing within media effects scholarship and draws on four key
+  interrelated concepts from critical cultural communication: power,
+  intersectionality, context, and agency. Critical Media Effects advocates for
+  greater reflexivity, rigor, and nuance in theorizing about media effects to
+  better respond to the complexity and dynamicity of emerging global
+  sociopolitical mediated contexts. Recommendations, salient examples, and
+  future directions for co-creating a shared research roadmap for CME are
+  discussed. Through this work of bridging, we hope to promote more
+  collaborative partnerships, productive engagement, and mutual solidarity
+  across these two important subfields to address the most pressing social
+  issues and challenges of the world today.%
+    }
+    \verb{doi}
+    \verb 10.1093/joc/jqaa014
+    \endverb
+    \verb{eprint}
+    \verb https://academic.oup.com/joc/article-pdf/70/3/379/45054454/jqaa014.pd
+    \verb f
+    \endverb
+    \field{issn}{0021-9916}
+    \field{number}{3}
+    \field{pages}{379\bibrangedash 400}
+    \field{title}{Critical Media Effects Framework: Bridging Critical Cultural
+  Communication and Media Effects through Power, Intersectionality, Context,
+  and Agency}
+    \verb{url}
+    \verb https://doi.org/10.1093/joc/jqaa014
+    \endverb
+    \field{volume}{70}
+    \field{journaltitle}{Journal of Communication}
+    \field{month}{05}
+    \field{year}{2020}
+  \endentry
+
+  \entry{Steinberg_2008}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=SL}{%
+         family={Steinberg},
+         familyi={S\bibinitperiod},
+         given={Laurence},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \keyw{Adolescents, Risk-taking, Social neuroscience, Reward-seeking,
+  Self-regulation, Prefrontal cortex, Peer influence, Decision making,
+  Dopamine, Oxytocin, Brain development}
+    \strng{namehash}{SL1}
+    \strng{fullhash}{SL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    This article proposes a framework for theory and research on risk-taking
+  that is informed by developmental neuroscience. Two fundamental questions
+  motivate this review. First, why does risk-taking increase between childhood
+  and adolescence? Second, why does risk-taking decline between adolescence and
+  adulthood? Risk-taking increases between childhood and adolescence as a
+  result of changes around the time of puberty in the brain’s socio-emotional
+  system leading to increased reward-seeking, especially in the presence of
+  peers, fueled mainly by a dramatic remodeling of the brain’s dopaminergic
+  system. Risk-taking declines between adolescence and adulthood because of
+  changes in the brain’s cognitive control system—changes which improve
+  individuals’ capacity for self-regulation. These changes occur across
+  adolescence and young adulthood and are seen in structural and functional
+  changes within the prefrontal cortex and its connections to other brain
+  regions. The differing timetables of these changes make mid-adolescence a
+  time of heightened vulnerability to risky and reckless behavior.%
+    }
+    \verb{doi}
+    \verb https://doi.org/10.1016/j.dr.2007.08.002
+    \endverb
+    \field{issn}{0273-2297}
+    \field{note}{Current Directions in Risk and Decision Making}
+    \field{number}{1}
+    \field{pages}{78\bibrangedash 106}
+    \field{title}{A social neuroscience perspective on adolescent risk-taking}
+    \verb{url}
+    \verb https://www.sciencedirect.com/science/article/pii/S0273229707000536
+    \endverb
+    \field{volume}{28}
+    \field{journaltitle}{Developmental Review}
+    \field{year}{2008}
+  \endentry
+
+  \entry{Walkerdine_2007}{book}{}{}
+    \name{author}{1}{}{%
+      {{hash=WV}{%
+         family={Walkerdine},
+         familyi={W\bibinitperiod},
+         given={Valerie},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Palgrave Macmillan}%
+    }
+    \strng{namehash}{WV1}
+    \strng{fullhash}{WV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \verb{doi}
+    \verb https://doi.org/10.1057/9780230235373
+    \endverb
+    \field{title}{Children, Gender, Video Games: Towards a Relational Approach
+  to Multimedia}
+    \verb{url}
+    \verb https://link.springer.com/book/10.1057/9780230235373
+    \endverb
+    \field{year}{2007}
+  \endentry
+\enddatalist
+\endinput
