@@ -554,6 +554,65 @@
     \field{year}{2024}
   \endentry
 
+  \entry{Miedzobrodzka_2023}{article}{}{}
+    \name{author}{4}{}{%
+      {{hash=ME}{%
+         family={Miedzobrodzka},
+         familyi={M\bibinitperiod},
+         given={Ewa},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=vHJC}{%
+         prefix={van},
+         prefixi={v\bibinitperiod},
+         family={Hooff},
+         familyi={H\bibinitperiod},
+         given={Johanna\bibnamedelima C.},
+         giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=KL}{%
+         family={Krabbendam},
+         familyi={K\bibinitperiod},
+         given={Lydia},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=KEA}{%
+         family={Konijn},
+         familyi={K\bibinitperiod},
+         given={Elly\bibnamedelima A.},
+         giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Routledge}%
+    }
+    \strng{namehash}{ME+1}
+    \strng{fullhash}{MEHJCvKLKEA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2023}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \verb{doi}
+    \verb 10.1080/17470919.2023.2284999
+    \endverb
+    \verb{eprint}
+    \verb https://doi.org/10.1080/17470919.2023.2284999
+    \endverb
+    \field{note}{PMID: 37990996}
+    \field{number}{6}
+    \field{pages}{365\bibrangedash 381}
+    \field{title}{Desensitized gamers? Violent video game exposure and empathy
+  for pain in adolescents – an ERP study}
+    \verb{url}
+    \verb https://doi.org/10.1080/17470919.2023.2284999
+    \endverb
+    \field{volume}{18}
+    \field{journaltitle}{Social Neuroscience}
+    \field{year}{2023}
+  \endentry
+
   \entry{Przybylski_Warstein_2019}{report}{}{}
     \name{author}{2}{}{%
       {{hash=PAK}{%
