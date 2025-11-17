@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.4)  9 NOV 2025 17:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.4)  17 NOV 2025 20:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -583,15 +583,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 [5]
 
-[6]
-
-[7
+[6
 
 
 
 ]
 
-[8] (report_template_multipleFiles_Main.aux (report_template_multipleFiles_Introduction.aux) (report_template_multipleFiles_Methods.aux))
+[7] (report_template_multipleFiles_Main.aux (report_template_multipleFiles_Introduction.aux) (report_template_multipleFiles_Methods.aux))
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-10-09>
@@ -601,17 +599,17 @@ Package logreq Info: Writing requests to 'report_template_multipleFiles_Main.run
 
  ) 
 Here is how much of TeX's memory you used:
- 13776 strings out of 468079
- 269802 string characters out of 5422811
- 990073 words of memory out of 5000000
- 42298 multiletter control sequences out of 15000+600000
+ 13783 strings out of 468079
+ 270037 string characters out of 5422811
+ 990159 words of memory out of 5000000
+ 42305 multiletter control sequences out of 15000+600000
  634908 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,6n,77p,2039b,1796s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Paul Szelag\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Paul Szelag/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Paul Szelag/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Paul Szelag/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Paul Szelag/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Paul Szelag/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Paul Szelag/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Paul Szelag/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Paul Szelag/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on report_template_multipleFiles_Main.pdf (11 pages, 156959 bytes).
+Output written on report_template_multipleFiles_Main.pdf (10 pages, 156218 bytes).
 PDF statistics:
- 83 PDF objects out of 1000 (max. 8388607)
+ 80 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
