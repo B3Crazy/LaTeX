@@ -98,15 +98,12 @@
   they spend on it.%
     }
     \verb{doi}
-    \verb 10.1007/s40894-024-00251-1
+    \verb https://doi.org/10.1007/s40894-024-00251-1
     \endverb
     \field{number}{2}
     \field{pages}{219\bibrangedash 236}
     \field{title}{A Systematic Review of Social Media Use and Adolescent
   Identity Development}
-    \verb{url}
-    \verb https://doi.org/10.1007/s40894-024-00251-1
-    \endverb
     \field{volume}{10}
     \field{journaltitle}{Adolescent Research Review}
     \field{year}{2024}
@@ -149,14 +146,11 @@
   behavior in adolescents.%
     }
     \verb{doi}
-    \verb 10.1038/nn.3177
+    \verb https://doi.org/10.1038/nn.3177
     \endverb
     \field{number}{9}
     \field{pages}{1184\bibrangedash 1191}
     \field{title}{Decision-making in the adolescent brain}
-    \verb{url}
-    \verb https://de.scribd.com/document/235185658/Blakemore-Robbins-2012
-    \endverb
     \field{volume}{15}
     \field{journaltitle}{Nature Neuroscience}
     \field{month}{09}
@@ -239,14 +233,10 @@
     \field{booktitle}{Handbook of Children and Screens: Digital Media,
   Development, and Well-Being from Birth Through Adolescence}
     \verb{doi}
-    \verb 10.1007/978-3-031-69362-5_79
-    \endverb
-    \field{isbn}{978-3-031-69362-5}
-    \field{pages}{581\bibrangedash 587}
-    \field{title}{Violent Video Games and Aggression}
-    \verb{url}
     \verb https://doi.org/10.1007/978-3-031-69362-5_79
     \endverb
+    \field{pages}{581\bibrangedash 587}
+    \field{title}{Violent Video Games and Aggression}
     \list{location}{1}{%
       {Cham}%
     }
@@ -304,14 +294,10 @@
     \verb{doi}
     \verb https://doi.org/10.1016/j.jesp.2006.05.003
     \endverb
-    \field{issn}{0022-1031}
     \field{number}{3}
     \field{pages}{489\bibrangedash 496}
     \field{title}{The effect of video game violence on physiological
   desensitization to real-life violence}
-    \verb{url}
-    \verb https://www.sciencedirect.com/science/article/pii/S0022103106000825
-    \endverb
     \field{volume}{43}
     \field{journaltitle}{Journal of Experimental Social Psychology}
     \field{year}{2007}
@@ -410,9 +396,8 @@
   {\textcopyright} 2014 National Communication Association.%
     }
     \verb{doi}
-    \verb 10.1080/03637751.2014.922206
+    \verb https://doi.org/10.1080/03637751.2014.922206
     \endverb
-    \field{issn}{0363-7751}
     \field{number}{3}
     \field{pages}{310\bibrangedash 332}
     \field{title}{How violent video games communicate violence: A literature
@@ -461,19 +446,11 @@
   game design.%
     }
     \verb{doi}
-    \verb 10.1111/j.1083-6101.2006.00301.x
+    \verb https://doi.org/10.1111/j.1083-6101.2006.00301.x
     \endverb
-    \verb{eprint}
-    \verb https://academic.oup.com/jcmc/article-pdf/11/4/910/22317676/jjcmcom09
-    \verb 10.pdf
-    \endverb
-    \field{issn}{1083-6101}
     \field{number}{4}
     \field{pages}{910\bibrangedash 931}
     \field{title}{Gender and Computer Games: Exploring Females’ Dislikes}
-    \verb{url}
-    \verb https://doi.org/10.1111/j.1083-6101.2006.00301.x
-    \endverb
     \field{volume}{11}
     \field{journaltitle}{Journal of Computer-Mediated Communication}
     \field{month}{07}
@@ -541,14 +518,10 @@
     \verb{doi}
     \verb https://doi.org/10.1016/j.chb.2024.108341
     \endverb
-    \field{issn}{0747-5632}
     \field{pages}{108341}
     \field{title}{Does violence in video games impact aggression and empathy? A
   longitudinal study of Czech adolescents to differentiate within- and
   between-person effects}
-    \verb{url}
-    \verb https://www.sciencedirect.com/science/article/pii/S0747563224002097
-    \endverb
     \field{volume}{159}
     \field{journaltitle}{Computers in Human Behavior}
     \field{year}{2024}
@@ -595,9 +568,6 @@
     \field{sortinit}{M}
     \field{sortinithash}{M}
     \verb{doi}
-    \verb 10.1080/17470919.2023.2284999
-    \endverb
-    \verb{eprint}
     \verb https://doi.org/10.1080/17470919.2023.2284999
     \endverb
     \field{note}{PMID: 37990996}
@@ -605,9 +575,6 @@
     \field{pages}{365\bibrangedash 381}
     \field{title}{Desensitized gamers? Violent video game exposure and empathy
   for pain in adolescents – an ERP study}
-    \verb{url}
-    \verb https://doi.org/10.1080/17470919.2023.2284999
-    \endverb
     \field{volume}{18}
     \field{journaltitle}{Social Neuroscience}
     \field{year}{2023}
@@ -640,14 +607,11 @@
     \field{sortinit}{P}
     \field{sortinithash}{P}
     \verb{doi}
-    \verb 10.1098/rsos.171474
+    \verb https://doi.org/10.1098/rsos.171474
     \endverb
     \field{number}{2}
     \field{title}{Violent video game engagement is not associated with
   adolescents' aggressive behaviour: evidence from a registered report}
-    \verb{url}
-    \verb https://doi.org/10.1098/rsos.171474
-    \endverb
     \field{volume}{6}
     \field{year}{2019}
   \endentry
@@ -693,21 +657,13 @@
   issues and challenges of the world today.%
     }
     \verb{doi}
-    \verb 10.1093/joc/jqaa014
+    \verb https://doi.org/10.1093/joc/jqaa014
     \endverb
-    \verb{eprint}
-    \verb https://academic.oup.com/joc/article-pdf/70/3/379/45054454/jqaa014.pd
-    \verb f
-    \endverb
-    \field{issn}{0021-9916}
     \field{number}{3}
     \field{pages}{379\bibrangedash 400}
     \field{title}{Critical Media Effects Framework: Bridging Critical Cultural
   Communication and Media Effects through Power, Intersectionality, Context,
   and Agency}
-    \verb{url}
-    \verb https://doi.org/10.1093/joc/jqaa014
-    \endverb
     \field{volume}{70}
     \field{journaltitle}{Journal of Communication}
     \field{month}{05}
@@ -754,17 +710,47 @@
     \verb{doi}
     \verb https://doi.org/10.1016/j.dr.2007.08.002
     \endverb
-    \field{issn}{0273-2297}
     \field{note}{Current Directions in Risk and Decision Making}
     \field{number}{1}
     \field{pages}{78\bibrangedash 106}
     \field{title}{A social neuroscience perspective on adolescent risk-taking}
-    \verb{url}
-    \verb https://www.sciencedirect.com/science/article/pii/S0273229707000536
-    \endverb
     \field{volume}{28}
     \field{journaltitle}{Developmental Review}
     \field{year}{2008}
+  \endentry
+
+  \entry{Tompson_Haninger_2004}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=TKM}{%
+         family={Tompson},
+         familyi={T\bibinitperiod},
+         given={Kimberly\bibnamedelima M},
+         giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=HK}{%
+         family={Haninger},
+         familyi={H\bibinitperiod},
+         given={Kevin},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TKMHK1}
+    \strng{fullhash}{TKMHK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2004}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \verb{doi}
+    \verb https://doi.org/10.1001/jama.291.5.856
+    \endverb
+    \field{number}{7}
+    \field{title}{Content and ratings of teen-rated video games}
+    \field{volume}{291}
+    \field{journaltitle}{JAMA}
+    \field{year}{2004}
+    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{Walkerdine_2007}{book}{}{}
@@ -792,9 +778,6 @@
     \endverb
     \field{title}{Children, Gender, Video Games: Towards a Relational Approach
   to Multimedia}
-    \verb{url}
-    \verb https://link.springer.com/book/10.1057/9780230235373
-    \endverb
     \field{year}{2007}
   \endentry
 \enddatalist
