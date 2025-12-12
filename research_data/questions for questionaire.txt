@@ -1,16 +1,41 @@
 Teachers questionnaires
+- When did you started teaching?
+- How long have you been teaching at this school?
+- Do you see children who are playing games on their phone in the breaks/during class?
+- Do you see a rising number in children whose free time spent on video games?
+- Do you see a rise in aggressive behavior in children?
+- Which games are students mostly talking about or what kind of games?
+- When children are talking about meeting up outside of school do they talk about playing video games?
+- Do you see a change in children's carrier choices or "dream jobs"? What are these changes?
+- Do you see a difference in children reacting to violence or death regarding real life/historical? What are these changes?
+- Do children try to use aggressive behavior to achieve something? Is it more often? Is it their first respond? 
 
 Parents questionnaires
+- How many children do you have?
+- How old is your child? Boy or girl?
+- How much do they play video games? (weekly)
+- Do they play alone or with friends/siblings?
+- Does the game have violence in it?
+- Is violence the main goal of the game?
+- Does the child spend money on it?
+- Does the level of aggression change after playing?
+- Did you notice any aggressive outburst during playing? (slamming the table, screaming, swearing)
+- Is it a problem for the child to stop playing the game when asked?
+- Is the child playing affects her/his sleeping pattern or studying?
+- If you have more children do you see a difference in aggression which can be connected to the different time they spend on video games? -> maybe break up this question?
+- Does your child tries to use aggressive behavior to achieve something?
+- How does your child react to death or violence to important people to him? And towards strangers or people who are weaker than him? -> has to be broken up
+
 
 Students questionnaires
 - What games do you play regularly?
 - How long do you play per day?
 - How passionate are you about your games?
-- Do you regularly spend money in-game?
-- Did you cause physical damage to objects or persons around you as an affect to an in-game event?
+- Do you regularly spend money in-game? And how much?
+- Did you cause physical damage to objects or people around you as an reaction to an in-game event?
 - Do you get exited or happy when fighting in-game?
 - Do you avoid or intentionally choose (competitive) shooters? (Fortnite, COD, Valorant, Counter Strike)
 - Do you get mad when you get told to stop/ pause your play?
-- What do you prefer? (Gaming/ spending time with friend)
-- Do you play alone or with friends
+- How much time do you spend with your friends playing a video game? How much time do you spend with them outside of it?
+- Do you play alone or with friends more?
 - Do you play different games with your friends than when you game alone?
