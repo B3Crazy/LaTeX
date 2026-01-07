@@ -1,3 +1,5 @@
+English:
+
 Teachers questionnaires
 - When did you started teaching?
 - How long have you been teaching at this school?
@@ -39,3 +41,138 @@ Students questionnaires
 - How much time do you spend with your friends playing a video game? How much time do you spend with them outside of it?
 - Do you play alone or with friends more?
 - Do you play different games with your friends than when you game alone?
+
+
+Introduction/ Description:
+QUESTIONNAIRE DESCRIPTION:
+This questionnaire is part of a research study investigating how exposure to violent and death-related content in video games influences adolescents' moral reasoning, emotional responses, and behavioral tendencies. The study aims to understand whether frequent exposure to such content is associated with changes in tolerance for aggression, empathy levels, and moral judgments concerning harm to others.
+
+The research employs a quantitative approach through structured questionnaires distributed to three groups: students (aged 12-20), parents, and teachers in secondary schools within Nordrhine-Westphalia, Germany. The questionnaires assess various aspects including frequency and duration of video game play, exposure to violent content, the extent to which games reward aggressive behavior, moral reasoning about violence, perception of death, empathy for pain, and demographic factors.
+
+All responses are completely anonymous and voluntary. For participants under 14 years of age, parental consent is required. The data collected will help researchers, educators, policymakers, and game developers better understand the potential risks and ethical considerations in adolescent media consumption, and may inform the creation of more ethically responsible gaming experiences.
+
+
+INTRODUCTION TO PARTICIPANTS:
+
+Dear Participant,
+
+Thank you for taking the time to participate in this important research study. We are investigating how video games influence young people's thoughts, feelings, and behaviors, particularly regarding violence and empathy.
+
+PURPOSE OF THIS STUDY:
+Video games have become one of the most popular forms of entertainment among adolescents worldwide. Many popular games contain violent or death-related content (such as Call of Duty, Fortnite, Grand Theft Auto). While rating systems like PEGI and ESRB help identify the level of violent content in games, researchers are still working to understand how these games affect young people's development, moral reasoning, and emotional responses.
+
+This study aims to explore:
+• How often adolescents are exposed to violent or death-related content in video games
+• Whether games that reward aggressive actions influence attitudes toward violence
+• How gaming habits relate to empathy, moral reasoning, and emotional responses to real-world violence
+• Whether these relationships differ by gender and age groups
+
+YOUR PARTICIPATION:
+Your honest answers to these questions will help us better understand these relationships. There are no right or wrong answers – we are simply interested in your genuine experiences and perspectives.
+
+IMPORTANT INFORMATION:
+✓ Participation is completely VOLUNTARY – you may stop at any time
+✓ All responses are ANONYMOUS – we will not collect any identifying information
+✓ Your answers will be kept CONFIDENTIAL and used only for research purposes
+✓ If you are under 14 years old, you must have parental consent to participate
+✓ The questionnaire will take approximately 10-15 minutes to complete
+
+By proceeding with this questionnaire, you confirm that:
+• You understand the purpose of this study
+• You are participating voluntarily
+• You consent to your anonymous responses being used for research purposes
+• If you are under 14, you have obtained parental consent
+
+If you have any questions or concerns about this study, please speak with your teacher or parent.
+
+Thank you for contributing to this important research!
+
+
+Deutsch:
+
+Lehrerfragebögen
+- Wann haben Sie mit dem Unterrichten begonnen?
+- Wie lange unterrichten Sie bereits an dieser Schule?
+- Sehen Sie Kinder, die in den Pausen/während des Unterrichts Spiele auf ihrem Handy spielen?
+- Sehen Sie eine steigende Anzahl von Kindern, die ihre Freizeit mit Videospielen verbringen?
+- Sehen Sie einen Anstieg aggressiven Verhaltens bei Kindern?
+- Über welche Spiele sprechen die Schüler hauptsächlich oder welche Art von Spielen?
+- Wenn Kinder darüber sprechen, sich außerhalb der Schule zu treffen, sprechen sie dann über das Spielen von Videospielen?
+- Sehen Sie eine Veränderung in den Karriereentscheidungen oder "Traumberufen" der Kinder? Welche Veränderungen sind das?
+- Sehen Sie einen Unterschied in der Reaktion von Kindern auf Gewalt oder Tod im echten Leben/historisch? Welche Veränderungen sind das?
+- Versuchen Kinder, aggressives Verhalten einzusetzen, um etwas zu erreichen? Ist es häufiger? Ist es ihre erste Reaktion?
+
+Elternfragebögen
+- Wie viele Kinder haben Sie?
+- Wie alt ist Ihr Kind? Junge oder Mädchen?
+- Wie viel spielen sie Videospiele? (wöchentlich)
+- Spielen sie alleine oder mit Freunden/Geschwistern?
+- Enthält das Spiel Gewalt?
+- Ist Gewalt das Hauptziel des Spiels?
+- Gibt das Kind Geld dafür aus?
+- Ändert sich das Aggressionsniveau nach dem Spielen?
+- Haben Sie aggressive Ausbrüche während des Spielens bemerkt? (auf den Tisch schlagen, schreien, fluchen)
+- Ist es ein Problem für das Kind, mit dem Spielen aufzuhören, wenn es darum gebeten wird?
+- Beeinflusst das Spielen des Kindes sein/ihr Schlafmuster oder Lernen?
+- Wenn Sie mehrere Kinder haben, sehen Sie einen Unterschied in der Aggression, der mit der unterschiedlichen Zeit zusammenhängt, die sie mit Videospielen verbringen? -> vielleicht diese Frage aufteilen?
+- Versucht Ihr Kind, aggressives Verhalten einzusetzen, um etwas zu erreichen?
+- Wie reagiert Ihr Kind auf Tod oder Gewalt gegenüber wichtigen Menschen? Und gegenüber Fremden oder Menschen, die schwächer sind als es? -> muss aufgeteilt werden
+
+
+Schülerfragebögen
+- Welche Spiele spielst du regelmäßig?
+- Wie lange spielst du pro Tag?
+- Wie leidenschaftlich bist du bei deinen Spielen?
+- Gibst du regelmäßig Geld im Spiel aus? Und wie viel?
+- Hast du physischen Schaden an Objekten oder Menschen in deiner Umgebung verursacht als Reaktion auf ein Ereignis im Spiel?
+- Wirst du aufgeregt oder glücklich, wenn du im Spiel kämpfst?
+- Vermeidest du oder wählst du absichtlich (kompetitive) Shooter? (Fortnite, COD, Valorant, Counter Strike)
+- Wirst du wütend, wenn dir gesagt wird, dass du aufhören/pausieren sollst?
+- Wie viel Zeit verbringst du mit deinen Freunden beim Spielen eines Videospiels? Wie viel Zeit verbringst du mit ihnen außerhalb davon?
+- Spielst du mehr alleine oder mit Freunden?
+- Spielst du andere Spiele mit deinen Freunden als wenn du alleine spielst?
+
+
+Einleitung/Beschreibung:
+
+FRAGEBOGENBESCHREIBUNG:
+Dieser Fragebogen ist Teil einer Forschungsstudie, die untersucht, wie die Exposition gegenüber gewalt- und todbezogenen Inhalten in Videospielen das moralische Denken, emotionale Reaktionen und Verhaltenstendenzen von Jugendlichen beeinflusst. Die Studie zielt darauf ab zu verstehen, ob häufige Exposition gegenüber solchen Inhalten mit Veränderungen in der Toleranz gegenüber Aggression, Empathie Niveaus und moralischen Urteilen bezüglich Schaden an anderen verbunden ist.
+
+Die Forschung verwendet einen quantitativen Ansatz durch strukturierte Fragebögen, die an drei Gruppen verteilt werden: Schüler (im Alter von 12-20 Jahren), Eltern und Lehrer an weiterführenden Schulen in Nordrhein-Westfalen, Deutschland. Die Fragebögen bewerten verschiedene Aspekte, einschließlich Häufigkeit und Dauer des Videospiels, Exposition gegenüber gewalttätigen Inhalten, das Ausmaß, in dem Spiele aggressives Verhalten belohnen, moralisches Denken über Gewalt, Wahrnehmung des Todes, Empathie für Schmerz und demografische Faktoren.
+
+Alle Antworten sind vollständig anonymisiert und freiwillig. Für Teilnehmer unter 14 Jahren ist eine elterliche Zustimmung erforderlich. Die gesammelten Daten werden Forschern, Pädagogen, politischen Entscheidungsträgern und Spieleentwicklern helfen, die potenziellen Risiken und ethischen Überlegungen beim Medienkonsum von Jugendlichen besser zu verstehen und könnten die Entwicklung ethisch verantwortungsvollerer Spielerlebnisse informieren.
+
+-----------------------
+
+Liebe Teilnehmerin, lieber Teilnehmer,
+
+vielen Dank, dass Sie sich die Zeit nehmen, an dieser wichtigen Forschungsstudie teilzunehmen. Wir untersuchen, wie Videospiele die Gedanken, Gefühle und Verhaltensweisen junger Menschen beeinflussen, insbesondere in Bezug auf Gewalt und Empathie.
+
+ZWECK DIESER STUDIE:
+Videospiele sind zu einer der beliebtesten Unterhaltungsformen unter Jugendlichen weltweit geworden. Viele beliebte Spiele enthalten gewalt- oder todbezogene Inhalte (wie Call of Duty, Fortnite, Grand Theft Auto). Während Bewertungssysteme wie PEGI und ESRB helfen, den Grad des gewalttätigen Inhalts in Spielen zu identifizieren, arbeiten Forscher immer noch daran zu verstehen, wie diese Spiele die Entwicklung, das moralische Denken und die emotionalen Reaktionen junger Menschen beeinflussen.
+
+Diese Studie zielt darauf ab, Folgendes zu erforschen:
+• Wie oft Jugendliche gewalt- oder todbezogenen Inhalten in Videospielen ausgesetzt sind
+• Ob Spiele, die aggressive Handlungen belohnen, Einstellungen gegenüber Gewalt beeinflussen
+• Wie Spielgewohnheiten mit Empathie, moralischem Denken und emotionalen Reaktionen auf Gewalt in der realen Welt zusammenhängen
+• Ob diese Beziehungen sich nach Geschlecht und Altersgruppen unterscheiden
+
+IHRE TEILNAHME:
+Ihre ehrlichen Antworten auf diese Fragen werden uns helfen, diese Zusammenhänge besser zu verstehen. Es gibt keine richtigen oder falschen Antworten – wir sind einfach an Ihren echten Erfahrungen und Perspektiven interessiert.
+
+WICHTIGE INFORMATIONEN:
+✓ Die Teilnahme ist vollständig FREIWILLIG – Sie können jederzeit aufhören
+✓ Alle Antworten sind ANONYMISIERT – wir sammeln keine identifizierenden Informationen
+✓ Ihre Antworten werden VERTRAULICH behandelt und nur für Forschungszwecke verwendet
+✓ Wenn Sie unter 14 Jahre alt sind, müssen Sie die elterliche Zustimmung zur Teilnahme haben
+✓ Der Fragebogen wird etwa 10-15 Minuten dauern
+
+Indem Sie mit diesem Fragebogen fortfahren, bestätigen Sie, dass:
+• Sie den Zweck dieser Studie verstehen
+• Sie freiwillig teilnehmen
+• Sie zustimmen, dass Ihre anonymisierten Antworten für Forschungszwecke verwendet werden
+• Wenn Sie unter 14 sind, haben Sie die elterliche Zustimmung eingeholt
+
+Wenn Sie Fragen oder Bedenken zu dieser Studie haben, sprechen Sie bitte mit Ihrem Lehrer oder Elternteil.
+
+Vielen Dank für Ihren Beitrag zu dieser wichtigen Forschung!
