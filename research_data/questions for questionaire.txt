@@ -136,13 +136,14 @@ Schülerfragebögen
 Einleitung/Beschreibung:
 
 FRAGEBOGENBESCHREIBUNG:
-Dieser Fragebogen ist Teil einer Forschungsstudie, die untersucht, wie die Exposition gegenüber gewalt- und todbezogenen Inhalten in Videospielen das moralische Denken, emotionale Reaktionen und Verhaltenstendenzen von Jugendlichen beeinflusst. Die Studie zielt darauf ab zu verstehen, ob häufige Exposition gegenüber solchen Inhalten mit Veränderungen in der Toleranz gegenüber Aggression, Empathie Niveaus und moralischen Urteilen bezüglich Schaden an anderen verbunden ist.
+Dieser Fragebogen ist Teil einer Forschungsstudie, die untersucht, wie die Exposition gegenüber gewalt- und todbezogenen Inhalten in Videospielen das moralische Denken, emotionale Reaktionen und Verhaltenstendenzen von Jugendlichen beeinflusst. Die Studie zielt darauf ab zu verstehen, ob häufige Exposition gegenüber solchen Inhalten mit Veränderungen in der Toleranz gegenüber Aggression, Empathieniveaus und moralischen Urteilen bezüglich Schaden an anderen verbunden ist.
 
 Die Forschung verwendet einen quantitativen Ansatz durch strukturierte Fragebögen, die an drei Gruppen verteilt werden: Schüler (im Alter von 12-20 Jahren), Eltern und Lehrer an weiterführenden Schulen in Nordrhein-Westfalen, Deutschland. Die Fragebögen bewerten verschiedene Aspekte, einschließlich Häufigkeit und Dauer des Videospiels, Exposition gegenüber gewalttätigen Inhalten, das Ausmaß, in dem Spiele aggressives Verhalten belohnen, moralisches Denken über Gewalt, Wahrnehmung des Todes, Empathie für Schmerz und demografische Faktoren.
 
 Alle Antworten sind vollständig anonymisiert und freiwillig. Für Teilnehmer unter 14 Jahren ist eine elterliche Zustimmung erforderlich. Die gesammelten Daten werden Forschern, Pädagogen, politischen Entscheidungsträgern und Spieleentwicklern helfen, die potenziellen Risiken und ethischen Überlegungen beim Medienkonsum von Jugendlichen besser zu verstehen und könnten die Entwicklung ethisch verantwortungsvollerer Spielerlebnisse informieren.
 
------------------------
+
+EINLEITUNG FÜR TEILNEHMER:
 
 Liebe Teilnehmerin, lieber Teilnehmer,
 
@@ -176,3 +177,133 @@ Indem Sie mit diesem Fragebogen fortfahren, bestätigen Sie, dass:
 Wenn Sie Fragen oder Bedenken zu dieser Studie haben, sprechen Sie bitte mit Ihrem Lehrer oder Elternteil.
 
 Vielen Dank für Ihren Beitrag zu dieser wichtigen Forschung!
+
+
+═══════════════════════════════════════════════════════════════════════════════════════════════
+
+
+KOMBINIERTER BRIEF AN ALLE BETEILIGTEN:
+
+Sehr geehrte Schulleitung, liebe Lehrkräfte, liebe Eltern und liebe Schülerinnen und Schüler,
+
+Videospiele sind heute aus dem Alltag vieler Jugendlicher nicht mehr wegzudenken. Sie bieten Unterhaltung, fördern soziale Kontakte und können sogar kreatives Denken anregen. Gleichzeitig enthalten viele beliebte Spiele gewalthaltige Inhalte, was immer wieder Fragen aufwirft: Wie beeinflussen solche Spiele junge Menschen? Verändern sie das Denken über Gewalt oder das Mitgefühl für andere?
+
+**Worum geht es in dieser Studie?**
+
+Wir sind Anna Varga & Paul Szelag und führe im Rahmen unserer eines Kurses and der Fontys University of Applied Sciences eine wissenschaftliche Studie zu genau diesen Fragen durch. Ziel ist es, durch anonyme Fragebögen besser zu verstehen, wie Videospiele mit Einstellungen zu Aggression, Empathie und moralischem Denken zusammenhängen. Die Studie richtet sich an drei Gruppen:
+
+**An die Schülerinnen und Schüler (12-20 Jahre):**
+Eure Meinung ist am wichtigsten! Der Fragebogen fragt nach euren Spielgewohnheiten, wie ihr euch beim Spielen fühlt und was ihr über verschiedene Situationen denkt. Es dauert nur 10-15 Minuten und ist komplett anonym. Es gibt keine richtigen oder falschen Antworten – es geht nur um eure ehrliche Meinung.
+
+**An die Eltern:**
+Sie kennen Ihre Kinder am besten. Der optionale Elternfragebogen fragt nach Ihren Beobachtungen: Wie viel und was spielen Ihre Kinder? Haben Sie Veränderungen im Verhalten bemerkt? Ihre Perspektive hilft, ein vollständigeres Bild zu bekommen.
+
+**An die Lehrkräfte:**
+Sie sehen die Schülerinnen und Schüler täglich im schulischen Kontext. Der optionale Lehrerfragebogen erfasst Ihre Beobachtungen zu Spielgewohnheiten, Gesprächsthemen und möglichen Verhaltensveränderungen in der Schule.
+
+**Wichtige Informationen für alle:**
+
+✓ **Freiwilligkeit:** Die Teilnahme ist für alle Gruppen komplett freiwillig
+✓ **Anonymität:** Es werden keine Namen oder identifizierenden Daten erhoben
+✓ **Datenschutz:** Alle Daten werden ausschließlich für wissenschaftliche Zwecke verwendet
+✓ **Zeitaufwand:** Ca. 10-15 Minuten pro Fragebogen
+✓ **Elterliche Zustimmung:** Für Schüler*innen unter 14 Jahren ist die Einwilligung der Eltern erforderlich
+✓ **Ethikstandards:** Die Studie entspricht allen ethischen Richtlinien für Forschung mit Minderjährigen
+
+**Warum ist diese Studie wichtig?**
+
+Die Ergebnisse können helfen:
+- Eltern bei Entscheidungen über geeignete Spiele für ihre Kinder
+- Lehrkräften beim Verständnis der Medienwelt ihrer Schüler*innen
+- Der Bildungspolitik bei der Entwicklung von Empfehlungen
+- Spieleentwicklern bei der Gestaltung verantwortungsvoller Spielerlebnisse
+- Der Wissenschaft beim besseren Verständnis von Medieneinflüssen
+
+**Wie läuft die Teilnahme ab?**
+
+Die Studie erfolgt komplett online über folgenden Link:
+
+👉 **Link zur Umfrage:**
+https://docs.google.com/forms/d/e/1FAIpQLSeV4FO6wAjQnBL5bOd0tz2iR4DCZ21ob9On-xaH5uFLvHIm_g/viewform?usp=publish-editor
+
+Jede Gruppe (Schüler*innen, Eltern, Lehrkräfte) hat einen eigenen, auf sie zugeschnittenen Fragebogen.
+
+**Ihre Unterstützung zählt!**
+
+Diese Forschung lebt von Ihrer Teilnahme. Jede Perspektive – ob von Schüler*innen, Eltern oder Lehrkräften – trägt dazu bei, ein differenziertes Bild zu gewinnen. Gemeinsam können wir zu einem besseren Verständnis beitragen, wie digitale Medien unsere Jugend prägen.
+
+Bei Fragen stehen wir jederzeit gerne zur Verfügung:
+Email: p.szelag@student.fontys.nl
+
+Vielen Dank für Ihre Zeit und Unterstützung!
+
+Mit freundlichen Grüßen
+
+Anna Varga & Paul Szelag
+Fontys University of Applied Sciences
+
+
+═══════════════════════════════════════════════════════════════════════════════════════════════
+
+
+COMBINED LETTER TO ALL PARTICIPANTS (English version):
+
+Dear School Administration, Teachers, Parents, and Students,
+
+Video games are an integral part of many adolescents' daily lives today. They provide entertainment, foster social connections, and can even stimulate creative thinking. At the same time, many popular games contain violent content, which repeatedly raises questions: How do such games influence young people? Do they change thinking about violence or empathy for others?
+
+**What is this study about?**
+
+I'm [Name] and I'm conducting a scientific study on exactly these questions as part of my work at [University]. The goal is to better understand through anonymous questionnaires how video games relate to attitudes toward aggression, empathy, and moral reasoning. The study targets three groups:
+
+**To Students (ages 12-20):**
+Your opinion is most important! The questionnaire asks about your gaming habits, how you feel while playing, and what you think about various situations. It only takes 10-15 minutes and is completely anonymous. There are no right or wrong answers – it's just about your honest opinion.
+
+**To Parents:**
+You know your children best. The optional parent questionnaire asks about your observations: How much and what do your children play? Have you noticed any behavioral changes? Your perspective helps create a more complete picture.
+
+**To Teachers:**
+You see students daily in the school context. The optional teacher questionnaire captures your observations about gaming habits, conversation topics, and possible behavioral changes at school.
+
+**Important Information for Everyone:**
+
+✓ **Voluntary:** Participation is completely voluntary for all groups
+✓ **Anonymous:** No names or identifying data are collected
+✓ **Data Protection:** All data will be used exclusively for scientific purposes
+✓ **Time Required:** Approximately 10-15 minutes per questionnaire
+✓ **Parental Consent:** Required for students under 14 years of age
+✓ **Ethical Standards:** The study complies with all ethical guidelines for research involving minors
+
+**Why is this study important?**
+
+The results can help:
+- Parents make decisions about appropriate games for their children
+- Teachers understand the media world of their students
+- Education policy develop recommendations
+- Game developers design responsible gaming experiences
+- Science better understand media influences
+
+**How does participation work?**
+
+The study is completely online via the following link:
+
+👉 **Survey Link:**
+https://docs.google.com/forms/d/e/1FAIpQLSeV4FO6wAjQnBL5bOd0tz2iR4DCZ21ob9On-xaH5uFLvHIm_g/viewform?usp=publish-editor
+
+Each group (students, parents, teachers) has its own tailored questionnaire.
+
+After completion of the study, I will be happy to provide the results in anonymized form.
+
+**Your support counts!**
+
+This research depends on your participation. Every perspective – whether from students, parents, or teachers – contributes to gaining a differentiated picture. Together, we can contribute to a better understanding of how digital media shape our youth.
+
+If you have any questions, please feel free to contact us at any time:
+Email: p.szelag@student.fontys.nl
+
+Thank you for your time and support!
+
+Sincerely,
+
+Anna Varga & Paul Szelag
+Fontys University of Applied Sciences
