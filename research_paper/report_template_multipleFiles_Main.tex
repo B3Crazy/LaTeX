@@ -1,6 +1,6 @@
 \documentclass[]{report}
 \renewcommand\thesection{\arabic{section}}%for page numbering in arabics
-\usepackage{graphicx,tabularx}%for figures and tables
+\usepackage{graphicx,tabularx,wrapfig}%for figures and tables
 \usepackage[utf8]{inputenc} %allows special characters such as ä, ö, ỳ
 \usepackage[english]{babel}  %set the language to English
 \usepackage[margin=1.5in]{geometry} %change page margins 
@@ -39,6 +39,9 @@ This is the abstract.
 	
 \include{report_template_multipleFiles_Introduction} 
 \include{report_template_multipleFiles_Methods}
+\include{report_template_multipleFiles_Results}
+\include{report_template_multipleFiles_Discussion}
+\include{report_template_multipleFiles_Conclusion}
 \printbibliography[title={References}]
 \end{document}
 	

@@ -10,3 +10,17 @@
 \contentsline {subsection}{\numberline {2.2}Participants}{4}{}%
 \contentsline {subsection}{\numberline {2.3}Materials and Measures}{4}{}%
 \contentsline {subsection}{\numberline {2.4}Procedure}{5}{}%
+\contentsline {section}{\numberline {3}Results}{6}{}%
+\contentsline {subsection}{\numberline {3.1}Sample Characteristics}{6}{}%
+\contentsline {subsubsection}{Age Distribution}{6}{}%
+\contentsline {subsubsection}{Gender Distribution}{6}{}%
+\contentsline {subsection}{\numberline {3.2}Gaming Duration and Frequency}{7}{}%
+\contentsline {subsubsection}{Average Daily Gaming Time}{7}{}%
+\contentsline {subsubsection}{Gaming Frequency Per Week}{7}{}%
+\contentsline {subsection}{\numberline {3.3}Gaming Context and Social Engagement}{8}{}%
+\contentsline {subsubsection}{Solo Versus Social Engagement}{8}{}%
+\contentsline {subsubsection}{Game Preferences and Genre Selection}{8}{}%
+\contentsline {subsection}{\numberline {3.4}Emotional Engagement with IN-Game Violence}{9}{}%
+\contentsline {subsubsection}{Happiness during Violent In-Game Actions}{9}{}%
+\contentsline {subsection}{\numberline {3.5}Behavioral Outcomes Related to In-Game Violence}{10}{}%
+\contentsline {subsubsection}{Aggression Level after prolonged Gaming}{10}{}%

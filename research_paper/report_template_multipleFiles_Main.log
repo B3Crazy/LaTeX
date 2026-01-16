@@ -1,15 +1,15 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.8)  9 DEC 2025 10:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.16)  16 JAN 2026 14:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/pauls/Documents/GitHub/Fontys/ARDA/LaTeX/research_paper/report_template_multipleFiles_Main.tex
-(c:/Users/pauls/Documents/GitHub/Fontys/ARDA/LaTeX/research_paper/report_template_multipleFiles_Main.tex
-LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-09-02>
-(C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+**c:/Users/Paul/Documents/LaTeX/research_paper/report_template_multipleFiles_Main.tex
+(c:/Users/Paul/Documents/LaTeX/research_paper/report_template_multipleFiles_Main.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-29>
+(C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
 Document Class: report 2025/01/22 v1.4n Standard LaTeX document class
-(C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+(C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
 File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count275
@@ -24,28 +24,28 @@ File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen148
-) (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+) (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
- (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+ (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
-) (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+) (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
- (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+ (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
-) (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+) (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 106.
- (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
-File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+ (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen149
 \Gin@req@width=\dimen150
-) (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+) (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
 Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
- (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
-Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
+ (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
 \col@sep=\dimen151
 \ar@mcellbox=\box53
 \extrarowheight=\dimen152
@@ -61,63 +61,72 @@ Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
 \TX@delta=\dimen157
 \TX@cols=\count284
 \TX@ftn=\toks19
-) (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+) (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen158
+\WF@size=\dimen159
+\c@WF@wrappedlines=\count285
+\WF@box=\box55
+\WF@everypar=\toks20
+Package: wrapfig 2003/01/31  v 3.6
+) (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
-\inpenc@prehook=\toks20
-\inpenc@posthook=\toks21
-) (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2025/08/03 v25.12 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
-\babel@savecnt=\count285
-LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input line 2045.
-LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input line 2047.
-LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input line 2049.
-LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input line 2050.
-LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) on input line 2051.
-LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) on input line 2053.
-LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) on input line 2078.
-\U@D=\dimen158
+\inpenc@prehook=\toks21
+\inpenc@posthook=\toks22
+) (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2025/12/30 v25.18 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
+\babel@savecnt=\count286
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input line 2068.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input line 2070.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input line 2072.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input line 2073.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) on input line 2074.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) on input line 2076.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) on input line 2101.
+\U@D=\dimen160
 \l@unhyphenated=\language79
- (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+ (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count286
+\bbl@dirlevel=\count287
+Package babel Info: Configuration files are deprecated, as
+(babel)             they can break document portability.
+(babel)             Reported on input line 4197.
 
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+(C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
-) (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.ldf
-Language: english 2017/06/06 v3.3r English support from the babel system
- (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel-english.tex
+) (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel-english.tex)
 Package babel Info: Importing font and identification data for english
-(babel)             from babel-en.ini. Reported on input line 12.
-)
+(babel)             from babel-en.ini. Reported on input line 4321.
+ (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
 Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
 (babel)             (\language73). Reported on input line 105.
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
 (babel)             (\language73). Reported on input line 108.
-)) (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+)) (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+ (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+ (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
-\Gm@cnth=\count287
-\Gm@cntv=\count288
-\c@Gm@tempcnt=\count289
-\Gm@bindingoffset=\dimen159
-\Gm@wd@mp=\dimen160
-\Gm@odd@mp=\dimen161
-\Gm@even@mp=\dimen162
-\Gm@layoutwidth=\dimen163
-\Gm@layoutheight=\dimen164
-\Gm@layouthoffset=\dimen165
-\Gm@layoutvoffset=\dimen166
-\Gm@dimlist=\toks22
- (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/sectsty\sectsty.sty
+\Gm@cnth=\count288
+\Gm@cntv=\count289
+\c@Gm@tempcnt=\count290
+\Gm@bindingoffset=\dimen161
+\Gm@wd@mp=\dimen162
+\Gm@odd@mp=\dimen163
+\Gm@even@mp=\dimen164
+\Gm@layoutwidth=\dimen165
+\Gm@layoutheight=\dimen166
+\Gm@layouthoffset=\dimen167
+\Gm@layoutvoffset=\dimen168
+\Gm@dimlist=\toks23
+ (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/sectsty\sectsty.sty
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading styles
 
 
@@ -128,107 +137,108 @@ LaTeX Warning: Command \underbar  has changed.
 LaTeX Warning: Command \underline  has changed.
                Check if current package is valid.
 
-) (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2025-09-02 L3 programming layer (loader) 
- (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count290
+) (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2025-12-29 L3 programming layer (loader) 
+ (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count291
 ))
-Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2025-10-09 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count291
-\l__lipsum_a_int=\count292
-\l__lipsum_b_int=\count293
- (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+\g__lipsum_par_int=\count292
+\l__lipsum_a_int=\count293
+\l__lipsum_b_int=\count294
+ (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)) (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
- (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+ (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen167
-\captionmargin=\dimen168
-\caption@leftmargin=\dimen169
-\caption@rightmargin=\dimen170
-\caption@width=\dimen171
-\caption@indent=\dimen172
-\caption@parindent=\dimen173
-\caption@hangindent=\dimen174
+\caption@tempdima=\dimen169
+\captionmargin=\dimen170
+\caption@leftmargin=\dimen171
+\caption@rightmargin=\dimen172
+\caption@width=\dimen173
+\caption@indent=\dimen174
+\caption@parindent=\dimen175
+\caption@hangindent=\dimen176
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count294
-\c@continuedfloat=\count295
-) (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+\c@caption@flags=\count295
+\c@continuedfloat=\count296
+Package caption Info: wrapfig package is loaded.
+) (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
 Package: biblatex 2025/07/10 v3.21 programmable bibliographies (PK/MW)
- (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+ (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+ (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-) (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+) (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-) (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
-Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count296
-) (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+) (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count297
+) (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
- (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+ (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-)) (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+)) (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count297
- (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+\lrq@indent=\count298
+ (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-)) (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+)) (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
-) (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+) (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count298
-\c@listtotal=\count299
-\c@listcount=\count300
-\c@liststart=\count301
-\c@liststop=\count302
-\c@citecount=\count303
-\c@citetotal=\count304
-\c@multicitecount=\count305
-\c@multicitetotal=\count306
-\c@instcount=\count307
-\c@maxnames=\count308
-\c@minnames=\count309
-\c@maxitems=\count310
-\c@minitems=\count311
-\c@citecounter=\count312
-\c@maxcitecounter=\count313
-\c@savedcitecounter=\count314
-\c@uniquelist=\count315
-\c@uniquename=\count316
-\c@refsection=\count317
-\c@refsegment=\count318
-\c@maxextratitle=\count319
-\c@maxextratitleyear=\count320
-\c@maxextraname=\count321
-\c@maxextradate=\count322
-\c@maxextraalpha=\count323
-\c@abbrvpenalty=\count324
-\c@highnamepenalty=\count325
-\c@lownamepenalty=\count326
-\c@maxparens=\count327
-\c@parenlevel=\count328
-\blx@tempcnta=\count329
-\blx@tempcntb=\count330
-\blx@tempcntc=\count331
-\c@blx@maxsection=\count332
-\blx@maxsegment@0=\count333
-\blx@notetype=\count334
-\blx@parenlevel@text=\count335
-\blx@parenlevel@foot=\count336
-\blx@sectionciteorder@0=\count337
-\blx@sectionciteorderinternal@0=\count338
-\blx@entrysetcounter=\count339
-\blx@biblioinstance=\count340
+\c@tabx@nest=\count299
+\c@listtotal=\count300
+\c@listcount=\count301
+\c@liststart=\count302
+\c@liststop=\count303
+\c@citecount=\count304
+\c@citetotal=\count305
+\c@multicitecount=\count306
+\c@multicitetotal=\count307
+\c@instcount=\count308
+\c@maxnames=\count309
+\c@minnames=\count310
+\c@maxitems=\count311
+\c@minitems=\count312
+\c@citecounter=\count313
+\c@maxcitecounter=\count314
+\c@savedcitecounter=\count315
+\c@uniquelist=\count316
+\c@uniquename=\count317
+\c@refsection=\count318
+\c@refsegment=\count319
+\c@maxextratitle=\count320
+\c@maxextratitleyear=\count321
+\c@maxextraname=\count322
+\c@maxextradate=\count323
+\c@maxextraalpha=\count324
+\c@abbrvpenalty=\count325
+\c@highnamepenalty=\count326
+\c@lownamepenalty=\count327
+\c@maxparens=\count328
+\c@parenlevel=\count329
+\blx@tempcnta=\count330
+\blx@tempcntb=\count331
+\blx@tempcntc=\count332
+\c@blx@maxsection=\count333
+\blx@maxsegment@0=\count334
+\blx@notetype=\count335
+\blx@parenlevel@text=\count336
+\blx@parenlevel@foot=\count337
+\blx@sectionciteorder@0=\count338
+\blx@sectionciteorderinternal@0=\count339
+\blx@entrysetcounter=\count340
+\blx@biblioinstance=\count341
 \labelnumberwidth=\skip53
 \labelalphawidth=\skip54
 \biblabelsep=\skip55
@@ -240,86 +250,86 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \blx@bcfin=\read3
 \blx@bcfout=\write3
 \blx@langwohyphens=\language80
-\c@mincomprange=\count341
-\c@maxcomprange=\count342
-\c@mincompwidth=\count343
+\c@mincomprange=\count342
+\c@maxcomprange=\count343
+\c@mincompwidth=\count344
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
- (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+ (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
 File: blx-dm.def 2025/07/10 v3.21 biblatex datamodel (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'authoryear.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count344
-\c@savedafterword=\count345
-\c@annotator=\count346
-\c@savedannotator=\count347
-\c@author=\count348
-\c@savedauthor=\count349
-\c@bookauthor=\count350
-\c@savedbookauthor=\count351
-\c@commentator=\count352
-\c@savedcommentator=\count353
-\c@editor=\count354
-\c@savededitor=\count355
-\c@editora=\count356
-\c@savededitora=\count357
-\c@editorb=\count358
-\c@savededitorb=\count359
-\c@editorc=\count360
-\c@savededitorc=\count361
-\c@foreword=\count362
-\c@savedforeword=\count363
-\c@holder=\count364
-\c@savedholder=\count365
-\c@introduction=\count366
-\c@savedintroduction=\count367
-\c@namea=\count368
-\c@savednamea=\count369
-\c@nameb=\count370
-\c@savednameb=\count371
-\c@namec=\count372
-\c@savednamec=\count373
-\c@translator=\count374
-\c@savedtranslator=\count375
-\c@shortauthor=\count376
-\c@savedshortauthor=\count377
-\c@shorteditor=\count378
-\c@savedshorteditor=\count379
-\c@labelname=\count380
-\c@savedlabelname=\count381
-\c@institution=\count382
-\c@savedinstitution=\count383
-\c@lista=\count384
-\c@savedlista=\count385
-\c@listb=\count386
-\c@savedlistb=\count387
-\c@listc=\count388
-\c@savedlistc=\count389
-\c@listd=\count390
-\c@savedlistd=\count391
-\c@liste=\count392
-\c@savedliste=\count393
-\c@listf=\count394
-\c@savedlistf=\count395
-\c@location=\count396
-\c@savedlocation=\count397
-\c@organization=\count398
-\c@savedorganization=\count399
-\c@origlocation=\count400
-\c@savedoriglocation=\count401
-\c@origpublisher=\count402
-\c@savedorigpublisher=\count403
-\c@publisher=\count404
-\c@savedpublisher=\count405
-\c@language=\count406
-\c@savedlanguage=\count407
-\c@origlanguage=\count408
-\c@savedoriglanguage=\count409
-\c@pageref=\count410
-\c@savedpageref=\count411
+\c@afterword=\count345
+\c@savedafterword=\count346
+\c@annotator=\count347
+\c@savedannotator=\count348
+\c@author=\count349
+\c@savedauthor=\count350
+\c@bookauthor=\count351
+\c@savedbookauthor=\count352
+\c@commentator=\count353
+\c@savedcommentator=\count354
+\c@editor=\count355
+\c@savededitor=\count356
+\c@editora=\count357
+\c@savededitora=\count358
+\c@editorb=\count359
+\c@savededitorb=\count360
+\c@editorc=\count361
+\c@savededitorc=\count362
+\c@foreword=\count363
+\c@savedforeword=\count364
+\c@holder=\count365
+\c@savedholder=\count366
+\c@introduction=\count367
+\c@savedintroduction=\count368
+\c@namea=\count369
+\c@savednamea=\count370
+\c@nameb=\count371
+\c@savednameb=\count372
+\c@namec=\count373
+\c@savednamec=\count374
+\c@translator=\count375
+\c@savedtranslator=\count376
+\c@shortauthor=\count377
+\c@savedshortauthor=\count378
+\c@shorteditor=\count379
+\c@savedshorteditor=\count380
+\c@labelname=\count381
+\c@savedlabelname=\count382
+\c@institution=\count383
+\c@savedinstitution=\count384
+\c@lista=\count385
+\c@savedlista=\count386
+\c@listb=\count387
+\c@savedlistb=\count388
+\c@listc=\count389
+\c@savedlistc=\count390
+\c@listd=\count391
+\c@savedlistd=\count392
+\c@liste=\count393
+\c@savedliste=\count394
+\c@listf=\count395
+\c@savedlistf=\count396
+\c@location=\count397
+\c@savedlocation=\count398
+\c@organization=\count399
+\c@savedorganization=\count400
+\c@origlocation=\count401
+\c@savedoriglocation=\count402
+\c@origpublisher=\count403
+\c@savedorigpublisher=\count404
+\c@publisher=\count405
+\c@savedpublisher=\count406
+\c@language=\count407
+\c@savedlanguage=\count408
+\c@origlanguage=\count409
+\c@savedoriglanguage=\count410
+\c@pageref=\count411
+\c@savedpageref=\count412
 \shorthandwidth=\skip61
 \shortjournalwidth=\skip62
 \shortserieswidth=\skip63
@@ -336,12 +346,12 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \localshorteditorwidth=\skip74
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
- (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
+ (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
 File: blx-compat.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load BibTeX backend compatibility...
 Package biblatex Info: ... file 'blx-bibtex.def' found.
- (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-bibtex.def
+ (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-bibtex.def
 File: blx-bibtex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
 
 
@@ -351,36 +361,36 @@ Package biblatex Warning: Using fall-back bibtex backend:
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
- (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+ (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
 File: biblatex.def 2025/07/10 v3.21 biblatex compatibility (PK/MW)
-\c@textcitecount=\count412
-\c@textcitetotal=\count413
-\c@textcitemaxnames=\count414
-\c@biburlbigbreakpenalty=\count415
-\c@biburlbreakpenalty=\count416
-\c@biburlnumpenalty=\count417
-\c@biburlucpenalty=\count418
-\c@biburllcpenalty=\count419
+\c@textcitecount=\count413
+\c@textcitetotal=\count414
+\c@textcitemaxnames=\count415
+\c@biburlbigbreakpenalty=\count416
+\c@biburlbreakpenalty=\count417
+\c@biburlnumpenalty=\count418
+\c@biburlucpenalty=\count419
+\c@biburllcpenalty=\count420
 \biburlbigskip=\muskip18
 \biburlnumskip=\muskip19
 \biburlucskip=\muskip20
 \biburllcskip=\muskip21
-\c@smartand=\count420
+\c@smartand=\count421
 )
 Package biblatex Info: Trying to load bibliography style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.bbx' found.
- (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\authoryear.bbx
+ (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\authoryear.bbx
 File: authoryear.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
- (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
+ (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
 File: standard.bbx 2025/07/10 v3.21 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count421
-\c@bbx:relatedtotal=\count422
+\c@bbx:relatedcount=\count422
+\c@bbx:relatedtotal=\count423
 ))
 Package biblatex Info: Trying to load citation style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.cbx' found.
- (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\authoryear.cbx
+ (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\authoryear.cbx
 File: authoryear.cbx 2025/07/10 v3.21 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
@@ -392,7 +402,7 @@ Package biblatex Info: Redefining '\textcites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
- (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+ (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
 File: biblatex.cfg 
 )
 
@@ -402,37 +412,37 @@ Package biblatex Warning: 'firstinits' option is deprecated.
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
 Package biblatex Info: ... and expl3
-(biblatex)             2025-09-02 L3 programming layer (loader) 
+(biblatex)             2025-12-29 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
-(C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
-Package: xparse 2024-08-16 L3 Experimental document command parser
+(C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3.sty (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2025-10-09 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2025/07/10 v3.21 expl3 case changing code for biblatex
-)) (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+)) (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2025/01/04 v2.17 Sectioning titles
-\ttl@box=\box55
+\ttl@box=\box56
 \beforetitleunit=\skip75
 \aftertitleunit=\skip76
-\ttl@plus=\dimen175
-\ttl@minus=\dimen176
-\ttl@toksa=\toks23
-\titlewidth=\dimen177
-\titlewidthlast=\dimen178
-\titlewidthfirst=\dimen179
+\ttl@plus=\dimen177
+\ttl@minus=\dimen178
+\ttl@toksa=\toks24
+\titlewidth=\dimen179
+\titlewidthlast=\dimen180
+\titlewidthfirst=\dimen181
 )
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count423
-\@quotereset=\count424
+\@quotelevel=\count424
+\@quotereset=\count425
 
 Package biblatex Warning: Conflicting options.
 (biblatex)                '<namepart>inits' conflicts with 'uniquename=full'.
 (biblatex)                Setting 'uniquename=init' on input line 25.
 
-(report_template_multipleFiles_Main.aux (report_template_multipleFiles_Introduction.aux) (report_template_multipleFiles_Methods.aux))
+(report_template_multipleFiles_Main.aux (report_template_multipleFiles_Introduction.aux) (report_template_multipleFiles_Methods.aux) (report_template_multipleFiles_Results.aux) (report_template_multipleFiles_Discussion.aux) (report_template_multipleFiles_Conclusion.aux))
 \openout1 = `report_template_multipleFiles_Main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
@@ -449,31 +459,31 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
 LaTeX Font Info:    ... okay on input line 25.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
 LaTeX Font Info:    ... okay on input line 25.
- (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+ (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count425
-\scratchdimen=\dimen180
-\scratchbox=\box56
-\nofMPsegments=\count426
-\nofMParguments=\count427
-\everyMPshowfont=\toks24
-\MPscratchCnt=\count428
-\MPscratchDim=\dimen181
-\MPnumerator=\count429
-\makeMPintoPDFobject=\count430
-\everyMPtoPDFconversion=\toks25
-) (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+\scratchcounter=\count426
+\scratchdimen=\dimen182
+\scratchbox=\box57
+\nofMPsegments=\count427
+\nofMParguments=\count428
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count429
+\MPscratchDim=\dimen183
+\MPnumerator=\count430
+\makeMPintoPDFobject=\count431
+\everyMPtoPDFconversion=\toks26
+) (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
- (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+ (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
 Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
- (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+ (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 ))
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
 Package grfext Info: Graphics extension search list:
 (grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 504.
- (C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+ (C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 *geometry* driver: auto-detecting
@@ -514,7 +524,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
-(C:\Users\pauls\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
+(C:\Users\Paul\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lbx
 File: english.lbx 2025/07/10 v3.21 biblatex localization (PK/MW)
 )
 Package biblatex Info: Input encoding 'utf8' detected.
@@ -542,13 +552,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 26.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 26.
+ [1
 
-
-[1
-
-{C:/Users/pauls/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-
-[1] (report_template_multipleFiles_Main.toc
+{C:/Users/Paul/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [1] (report_template_multipleFiles_Main.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -557,61 +563,182 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write4
 \openout4 = `report_template_multipleFiles_Main.toc'.
 
-
-
-[3
+ [3
 
 ]
 \openout2 = `report_template_multipleFiles_Introduction.aux'.
 
- (report_template_multipleFiles_Introduction.tex
+ (report_template_multipleFiles_Introduction.tex [1
 
-[1
-
-]
-
-[2])
-
-[3]
+] [2]) [3]
 \openout2 = `report_template_multipleFiles_Methods.aux'.
 
- (report_template_multipleFiles_Methods.tex
-
-[4
+ (report_template_multipleFiles_Methods.tex [4
 
 
 
-])
+]) [5]
+\openout2 = `report_template_multipleFiles_Results.aux'.
 
-[5]
+ (report_template_multipleFiles_Results.tex
+<images/Ages.png, id=34, 365.86688pt x 300.3722pt>
+File: images/Ages.png Graphic file (type png)
+<use images/Ages.png>
+Package pdftex.def Info: images/Ages.png  used on input line 9.
+(pdftex.def)             Requested size: 178.86703pt x 146.84908pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 13--18
+
+ []
+
+<images/Gender.png, id=36, 315.42844pt x 216.81pt>
+File: images/Gender.png Graphic file (type png)
+<use images/Gender.png>
+Package pdftex.def Info: images/Gender.png  used on input line 23.
+(pdftex.def)             Requested size: 178.86703pt x 122.94449pt.
+
+Underfull \hbox (badness 1648) in paragraph at lines 27--31
+\OT1/cmr/m/n/10 sen-ta-tion in the sam-ple and as such does
+ []
+
+
+Underfull \hbox (badness 1975) in paragraph at lines 27--31
+\OT1/cmr/m/n/10 tic-i-pa-tion. An ad-di-tional 3% of stu-dents
+ []
+
+
+Underfull \hbox (badness 2103) in paragraph at lines 27--31
+\OT1/cmr/m/n/10 dis-close their gen-der. This bal-anced dis-
+ []
+
+
+Underfull \hbox (badness 1466) in paragraph at lines 27--31
+\OT1/cmr/m/n/10 tri-bu-tion en-ables ex-plo-ration of gen-der dif-
+ []
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 27--31
+\OT1/cmr/m/n/10 fer-ences across gam-ing be-haviours and out-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--31
+
+ []
+
+<images/Hours played.png, id=37, 368.87813pt x 316.18124pt>
+File: images/Hours played.png Graphic file (type png)
+<use images/Hours played.png>
+Package pdftex.def Info: images/Hours played.png  used on input line 38.
+(pdftex.def)             Requested size: 178.86703pt x 153.31393pt.
 [6
 
 
 
-]
+ <./images/Ages.png> <./images/Gender.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 42--51
 
-[7] (report_template_multipleFiles_Main.aux (report_template_multipleFiles_Introduction.aux) (report_template_multipleFiles_Methods.aux))
+ []
+
+<images/How many days played in week.png, id=43, 323.70938pt x 255.20343pt>
+File: images/How many days played in week.png Graphic file (type png)
+<use images/How many days played in week.png>
+Package pdftex.def Info: images/How many days played in week.png  used on input line 56.
+(pdftex.def)             Requested size: 178.86703pt x 141.01262pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--68
+
+ []
+
+[7 <./images/Hours played.png> <./images/How many days played in week.png>]
+<images/Do they play alone or with friends.png, id=49, 396.7322pt x 258.21469pt>
+File: images/Do they play alone or with friends.png Graphic file (type png)
+<use images/Do they play alone or with friends.png>
+Package pdftex.def Info: images/Do they play alone or with friends.png  used on input line 75.
+(pdftex.def)             Requested size: 178.86703pt x 116.41617pt.
+
+Underfull \hbox (badness 1231) in paragraph at lines 79--88
+\OT1/cmr/m/n/10 friends and 18% re-ported play-ing pri-mar-ily
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--88
+
+ []
+
+<images/Type of games played.png, id=50, 319.94531pt x 216.81pt>
+File: images/Type of games played.png Graphic file (type png)
+<use images/Type of games played.png>
+Package pdftex.def Info: images/Type of games played.png  used on input line 93.
+(pdftex.def)             Requested size: 178.86703pt x 121.21095pt.
+
+Underfull \hbox (badness 3460) in paragraph at lines 94--94
+[]\OT1/cmr/m/n/10 Figure 6: |Game Genre Pref-er-ences
+ []
+
+[8 <./images/Do they play alone or with friends.png>]
+Underfull \hbox (badness 1292) in paragraph at lines 97--103
+\OT1/cmr/m/n/10 (RPGs) (37%), Open World Games (28%),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--103
+
+ []
+
+<images/Happines when playing violent games.png, id=55, 380.92313pt x 246.1697pt>
+File: images/Happines when playing violent games.png Graphic file (type png)
+<use images/Happines when playing violent games.png>
+Package pdftex.def Info: images/Happines when playing violent games.png  used on input line 110.
+(pdftex.def)             Requested size: 178.86703pt x 115.59084pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--120
+
+ []
+
+[9 <./images/Type of games played.png> <./images/Happines when playing violent games.png>]
+<images/Aggression growing after playing for a longer period.png, id=61, 313.17pt x 216.81pt>
+File: images/Aggression growing after playing for a longer period.png Graphic file (type png)
+<use images/Aggression growing after playing for a longer period.png>
+Package pdftex.def Info: images/Aggression growing after playing for a longer period.png  used on input line 127.
+(pdftex.def)             Requested size: 178.86703pt x 123.8344pt.
+) [10 <./images/Aggression growing after playing for a longer period.png>]
+\openout2 = `report_template_multipleFiles_Discussion.aux'.
+
+ (report_template_multipleFiles_Discussion.tex)
+\openout2 = `report_template_multipleFiles_Conclusion.aux'.
+
+ (report_template_multipleFiles_Conclusion.tex) [11
+
+
+
+
+
+
+
+
+
+] [12] (report_template_multipleFiles_Main.aux (report_template_multipleFiles_Introduction.aux) (report_template_multipleFiles_Methods.aux) (report_template_multipleFiles_Results.aux) (report_template_multipleFiles_Discussion.aux) (report_template_multipleFiles_Conclusion.aux))
  ***********
-LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-09-02>
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-29>
  ***********
 Package logreq Info: Writing requests to 'report_template_multipleFiles_Main.run.xml'.
 \openout1 = `report_template_multipleFiles_Main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 13784 strings out of 468130
- 269192 string characters out of 5430633
- 988931 words of memory out of 5000000
- 42255 multiletter control sequences out of 15000+600000
- 634012 words of font info for 64 fonts, out of 8000000 for 9000
+ 14014 strings out of 467870
+ 277326 string characters out of 5418839
+ 1001748 words of memory out of 5000000
+ 42720 multiletter control sequences out of 15000+600000
+ 634908 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 73i,6n,77p,2034b,1796s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\pauls\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/pauls/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/pauls/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/pauls/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/pauls/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pauls/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/pauls/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/pauls/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/pauls/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on report_template_multipleFiles_Main.pdf (10 pages, 153558 bytes).
+ 73i,6n,77p,2014b,1798s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Paul\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Paul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Paul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Paul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Paul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Paul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Paul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Paul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Paul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on report_template_multipleFiles_Main.pdf (15 pages, 239798 bytes).
 PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
+ 113 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 

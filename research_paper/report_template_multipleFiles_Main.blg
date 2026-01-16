@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d
+This is BibTeX, Version 0.99e
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: report_template_multipleFiles_Main.aux
 Reallocating 'name_of_file' (item size: 1) to 9 items.
@@ -9,6 +9,12 @@ Reallocating 'name_of_file' (item size: 1) to 47 items.
 A level-1 auxiliary file: report_template_multipleFiles_Introduction.aux
 Reallocating 'name_of_file' (item size: 1) to 42 items.
 A level-1 auxiliary file: report_template_multipleFiles_Methods.aux
+Reallocating 'name_of_file' (item size: 1) to 42 items.
+A level-1 auxiliary file: report_template_multipleFiles_Results.aux
+Reallocating 'name_of_file' (item size: 1) to 45 items.
+A level-1 auxiliary file: report_template_multipleFiles_Discussion.aux
+Reallocating 'name_of_file' (item size: 1) to 45 items.
+A level-1 auxiliary file: report_template_multipleFiles_Conclusion.aux
 Reallocating 'glb_str_end' (item size: 4) to 20 items.
 Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
 Reallocating 'global_strs' (item size: 1) to 4000000 items.
@@ -31,7 +37,7 @@ Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 You've used 16 entries,
             6402 wiz_defined-function locations,
-            1349 strings with 23818 characters,
+            1352 strings with 23947 characters,
 and the built_in function-call counts, 135590 in all, are:
 = -- 10941
 > -- 1892
