@@ -780,5 +780,66 @@
   to Multimedia}
     \field{year}{2007}
   \endentry
+
+  \entry{Wang_Chan_Mak_Ho_Wong_Ho_2014}{article}{}{}
+    \name{author}{6}{}{%
+      {{hash=WCW}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Chong-Wen},
+         giveni={C\bibinithyphendelim W\bibinitperiod},
+      }}%
+      {{hash=CCLW}{%
+         family={Chan},
+         familyi={C\bibinitperiod},
+         given={Cecilia L\bibnamedelima W},
+         giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim
+  W\bibinitperiod},
+      }}%
+      {{hash=MKK}{%
+         family={Mak},
+         familyi={M\bibinitperiod},
+         given={Kwok-Kei},
+         giveni={K\bibinithyphendelim K\bibinitperiod},
+      }}%
+      {{hash=HSY}{%
+         family={Ho},
+         familyi={H\bibinitperiod},
+         given={Sai-Yin},
+         giveni={S\bibinithyphendelim Y\bibinitperiod},
+      }}%
+      {{hash=WPW}{%
+         family={Wong},
+         familyi={W\bibinitperiod},
+         given={Paul\bibnamedelima WC},
+         giveni={P\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=HRTH}{%
+         family={Ho},
+         familyi={H\bibinitperiod},
+         given={Rainbow T\bibnamedelima H},
+         giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim
+  H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WCW+1}
+    \strng{fullhash}{WCWCCLWMKKHSYWPWHRTH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \verb{doi}
+    \verb https://doi.org/10.1155/2014/874648
+    \endverb
+    \field{pages}{874648}
+    \field{title}{Prevalence and correlates of video and internet gaming
+  addiction among Hong Kong adolescents: a pilot study}
+    \field{volume}{2014}
+    \field{journaltitle}{The Scientific World Journal}
+    \field{year}{2014}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
 \enddatalist
 \endinput

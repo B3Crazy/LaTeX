@@ -19,7 +19,7 @@
 \contentsline {subsubsection}{Gaming Frequency Per Week}{7}{}%
 \contentsline {subsection}{\numberline {3.3}Gaming Context and Social Engagement}{8}{}%
 \contentsline {subsubsection}{Solo Versus Social Engagement}{8}{}%
-\contentsline {subsubsection}{Game Preferences and Genre Selection}{8}{}%
+\contentsline {subsubsection}{Game Preferences and Genre Selection}{9}{}%
 \contentsline {subsection}{\numberline {3.4}Emotional Engagement with IN-Game Violence}{9}{}%
 \contentsline {subsubsection}{Happiness during Violent In-Game Actions}{9}{}%
 \contentsline {subsection}{\numberline {3.5}Behavioral Outcomes Related to In-Game Violence}{10}{}%

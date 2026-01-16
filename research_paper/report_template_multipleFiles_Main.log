@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.16)  16 JAN 2026 14:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.16)  16 JAN 2026 15:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -543,6 +543,11 @@ Package biblatex Warning: BibTeX reported the following issues
 (biblatex)                with 'Tompson_Haninger_2004':
 (biblatex)                - Invalid format of field 'month'.
 
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'Wang_Chan_Mak_Ho_Wong_Ho_2014':
+(biblatex)                - Invalid format of field 'month'.
+
 )
 Package biblatex Info: Reference section=0 on input line 25.
 Package biblatex Info: Reference segment=0 on input line 25.
@@ -666,6 +671,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 79--88
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--88
+
+ []
+
 <images/Type of games played.png, id=50, 319.94531pt x 216.81pt>
 File: images/Type of games played.png Graphic file (type png)
 <use images/Type of games played.png>
@@ -697,12 +707,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 114--120
  []
 
 [9 <./images/Type of games played.png> <./images/Happines when playing violent games.png>]
-<images/Aggression growing after playing for a longer period.png, id=61, 313.17pt x 216.81pt>
+<images/Aggression growing after playing for a longer period.png, id=61, 310.91156pt x 216.81pt>
 File: images/Aggression growing after playing for a longer period.png Graphic file (type png)
 <use images/Aggression growing after playing for a longer period.png>
-Package pdftex.def Info: images/Aggression growing after playing for a longer period.png  used on input line 127.
-(pdftex.def)             Requested size: 178.86703pt x 123.8344pt.
-) [10 <./images/Aggression growing after playing for a longer period.png>]
+Package pdftex.def Info: images/Aggression growing after playing for a longer period.png  used on input line 139.
+(pdftex.def)             Requested size: 178.86703pt x 124.73094pt.
+)
+Underfull \hbox (badness 2005) in paragraph at lines 143--42
+\OT1/cmr/m/n/10 to in-creased ag-gres-sive feel-ings. How-ever,
+ []
+
+
+Underfull \hbox (badness 2726) in paragraph at lines 143--42
+\OT1/cmr/m/n/10 the 30% of par-ents who ob-served an in-
+ []
+
+
+Underfull \hbox (badness 1484) in paragraph at lines 143--42
+\OT1/cmr/m/n/10 the fac-tors that may me-di-ate or mod-er-ate
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--42
+
+ []
+
+[10 <./images/Aggression growing after playing for a longer period.png>]
 \openout2 = `report_template_multipleFiles_Discussion.aux'.
 
  (report_template_multipleFiles_Discussion.tex)
@@ -728,15 +758,15 @@ Package logreq Info: Writing requests to 'report_template_multipleFiles_Main.run
 
  ) 
 Here is how much of TeX's memory you used:
- 14014 strings out of 467870
- 277326 string characters out of 5418839
- 1001748 words of memory out of 5000000
- 42720 multiletter control sequences out of 15000+600000
+ 14020 strings out of 467870
+ 277594 string characters out of 5418839
+ 1001853 words of memory out of 5000000
+ 42726 multiletter control sequences out of 15000+600000
  634908 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,6n,77p,2014b,1798s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Paul\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Paul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Paul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Paul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Paul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Paul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Paul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Paul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Paul/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on report_template_multipleFiles_Main.pdf (15 pages, 239798 bytes).
+Output written on report_template_multipleFiles_Main.pdf (15 pages, 242534 bytes).
 PDF statistics:
  113 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
