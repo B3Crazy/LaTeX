@@ -24,11 +24,11 @@
 \contentsline {subsubsection}{Happiness during Violent In-Game Actions}{9}{}%
 \contentsline {subsection}{\numberline {3.5}Behavioral Outcomes Related to In-Game Violence}{10}{}%
 \contentsline {subsubsection}{Aggression Level after prolonged Gaming}{10}{}%
-\contentsline {section}{\numberline {4}Discussion}{11}{}%
-\contentsline {subsection}{\numberline {4.1}Interpretation of Principal Findings}{11}{}%
-\contentsline {subsubsection}{Gaming Engagement Patterns and Intensity}{11}{}%
-\contentsline {subsubsection}{Genre Selection and Violent Content Exposure}{11}{}%
-\contentsline {subsubsection}{Social Gaming Context and Moderating Factors}{12}{}%
-\contentsline {subsubsection}{Emotional Engagement with In-Game violence}{12}{}%
-\contentsline {subsection}{\numberline {4.2}Evaluation of Research Hypotheses}{12}{}%
-\contentsline {subsubsection}{Hypothesis 1: Violent Exposure and Aggression/ Empathy}{12}{}%
+\contentsline {section}{\numberline {4}Conclusion}{11}{}%
+\contentsline {subsection}{\numberline {4.1}Summary of Principal Findings}{11}{}%
+\contentsline {subsection}{\numberline {4.2}Evaluation of Research Hypotheses}{11}{}%
+\contentsline {subsection}{\numberline {4.3}Addressing the Research question}{11}{}%
+\contentsline {subsection}{\numberline {4.4}Theoretical Implications}{12}{}%
+\contentsline {subsection}{\numberline {4.5}Methodological Considerations}{12}{}%
+\contentsline {subsection}{\numberline {4.6}Practical Recommendations}{12}{}%
+\contentsline {subsection}{\numberline {4.7}Final Remarks}{13}{}%

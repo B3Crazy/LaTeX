@@ -132,9 +132,6 @@ INPUT report_template_multipleFiles_Methods.aux
 INPUT .\report_template_multipleFiles_Results.aux
 INPUT .\report_template_multipleFiles_Results.aux
 INPUT report_template_multipleFiles_Results.aux
-INPUT .\report_template_multipleFiles_Discussion.aux
-INPUT .\report_template_multipleFiles_Discussion.aux
-INPUT report_template_multipleFiles_Discussion.aux
 INPUT .\report_template_multipleFiles_Conclusion.aux
 INPUT .\report_template_multipleFiles_Conclusion.aux
 INPUT report_template_multipleFiles_Conclusion.aux
@@ -173,6 +170,7 @@ INPUT C:\Users\Paul\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
 OUTPUT report_template_multipleFiles_Main.pdf
 INPUT C:\Users\Paul\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\Paul\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
+INPUT C:\Users\Paul\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
 INPUT C:\Users\Paul\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\Paul\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\Paul\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
@@ -190,7 +188,6 @@ INPUT report_template_multipleFiles_Introduction.tex
 INPUT C:\Users\Paul\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\Paul\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\Paul\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
-INPUT C:\Users\Paul\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
 INPUT C:\Users\Paul\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\Paul\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
 INPUT .\report_template_multipleFiles_Methods.tex
@@ -262,12 +259,6 @@ INPUT .\images\Aggression growing after playing for a longer period.png
 INPUT .\images\Aggression growing after playing for a longer period.png
 INPUT .\images\Aggression growing after playing for a longer period.png
 INPUT .\images\Aggression growing after playing for a longer period.png
-INPUT .\report_template_multipleFiles_Discussion.tex
-INPUT .\report_template_multipleFiles_Discussion.tex
-OUTPUT report_template_multipleFiles_Discussion.aux
-INPUT .\report_template_multipleFiles_Discussion.tex
-INPUT .\report_template_multipleFiles_Discussion.tex
-INPUT report_template_multipleFiles_Discussion.tex
 INPUT .\report_template_multipleFiles_Conclusion.tex
 INPUT .\report_template_multipleFiles_Conclusion.tex
 OUTPUT report_template_multipleFiles_Conclusion.aux
@@ -286,9 +277,6 @@ INPUT report_template_multipleFiles_Methods.aux
 INPUT .\report_template_multipleFiles_Results.aux
 INPUT .\report_template_multipleFiles_Results.aux
 INPUT report_template_multipleFiles_Results.aux
-INPUT .\report_template_multipleFiles_Discussion.aux
-INPUT .\report_template_multipleFiles_Discussion.aux
-INPUT report_template_multipleFiles_Discussion.aux
 INPUT .\report_template_multipleFiles_Conclusion.aux
 INPUT .\report_template_multipleFiles_Conclusion.aux
 INPUT report_template_multipleFiles_Conclusion.aux

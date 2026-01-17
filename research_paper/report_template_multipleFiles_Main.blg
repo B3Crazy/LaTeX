@@ -12,8 +12,6 @@ A level-1 auxiliary file: report_template_multipleFiles_Methods.aux
 Reallocating 'name_of_file' (item size: 1) to 42 items.
 A level-1 auxiliary file: report_template_multipleFiles_Results.aux
 Reallocating 'name_of_file' (item size: 1) to 45 items.
-A level-1 auxiliary file: report_template_multipleFiles_Discussion.aux
-Reallocating 'name_of_file' (item size: 1) to 45 items.
 A level-1 auxiliary file: report_template_multipleFiles_Conclusion.aux
 Reallocating 'glb_str_end' (item size: 4) to 20 items.
 Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
@@ -37,42 +35,42 @@ Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 You've used 20 entries,
             6402 wiz_defined-function locations,
-            1391 strings with 26137 characters,
-and the built_in function-call counts, 188617 in all, are:
-= -- 15538
-> -- 2675
-< -- 677
-+ -- 5313
-- -- 1176
-* -- 14678
-:= -- 21693
+            1381 strings with 25591 characters,
+and the built_in function-call counts, 172688 in all, are:
+= -- 14045
+> -- 2321
+< -- 633
++ -- 4700
+- -- 901
+* -- 13353
+:= -- 19663
 add.period$ -- 0
 call.type$ -- 20
-change.case$ -- 347
-chr.to.int$ -- 92
+change.case$ -- 310
+chr.to.int$ -- 68
 cite$ -- 38
-duplicate$ -- 18189
-empty$ -- 16596
-format.name$ -- 1446
-if$ -- 37984
+duplicate$ -- 17109
+empty$ -- 15306
+format.name$ -- 1390
+if$ -- 34976
 int.to.chr$ -- 0
-int.to.str$ -- 50
+int.to.str$ -- 46
 missing$ -- 0
-newline$ -- 839
-num.names$ -- 941
-pop$ -- 7047
+newline$ -- 781
+num.names$ -- 902
+pop$ -- 7003
 preamble$ -- 1
-purify$ -- 472
+purify$ -- 426
 quote$ -- 0
-skip$ -- 3871
+skip$ -- 3728
 stack$ -- 0
-substring$ -- 30728
-swap$ -- 3647
-text.length$ -- 587
+substring$ -- 27225
+swap$ -- 3425
+text.length$ -- 574
 text.prefix$ -- 19
 top$ -- 1
 type$ -- 668
 warning$ -- 0
-while$ -- 2464
+while$ -- 2294
 width$ -- 0
-write$ -- 820
+write$ -- 762

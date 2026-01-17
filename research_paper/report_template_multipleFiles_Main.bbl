@@ -243,39 +243,43 @@
     \field{year}{2025}
   \endentry
 
-  \entry{Carnagey_Anderson_2005}{article}{}{}
-    \name{author}{2}{}{%
-      {{hash=CNL}{%
-         family={Carnagey},
-         familyi={C\bibinitperiod},
-         given={Nicholas\bibnamedelima L.},
-         giveni={N\bibinitperiod\bibinitdelim L\bibinitperiod},
+  \entry{Békés_Ferstenberg_Perry_2018}{inbook}{}{}
+    \name{author}{3}{}{%
+      {{hash=BV}{%
+         family={Békés},
+         familyi={B\bibinitperiod},
+         given={Vera},
+         giveni={V\bibinitperiod},
       }}%
-      {{hash=ACA}{%
-         family={Anderson},
-         familyi={A\bibinitperiod},
-         given={Craig\bibnamedelima A.},
-         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      {{hash=FY}{%
+         family={Ferstenberg},
+         familyi={F\bibinitperiod},
+         given={Yocheved},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=PJ}{%
+         family={Perry},
+         familyi={P\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
       }}%
     }
-    \strng{namehash}{CNLACA1}
-    \strng{fullhash}{CNLACA1}
+    \strng{namehash}{BVFYPJ1}
+    \strng{fullhash}{BVFYPJ1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{labelyear}{2005}
+    \field{labelyear}{2018}
     \field{labeldatesource}{}
-    \field{sortinit}{C}
-    \field{sortinithash}{C}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
     \verb{doi}
-    \verb https://doi.org/10.1111/j.1467-9280.2005.01632.x
+    \verb 10.1007/978-3-319-28099-8_1939-1
     \endverb
-    \field{number}{11}
-    \field{pages}{882\bibrangedash 889}
-    \field{title}{The Effects of Reward and Punishment in Violent Video Games
-  on Aggressive Affect, Cognition, and Behavior}
-    \field{volume}{16}
-    \field{journaltitle}{Psychological Science}
-    \field{year}{2005}
+    \field{isbn}{978-3-319-28099-8}
+    \field{pages}{1\bibrangedash 5}
+    \field{title}{Compartmentalization (Defense Mechanism)}
+    \field{month}{12}
+    \field{year}{2018}
   \endentry
 
   \entry{Carnagey_Anderson_Bushman_2007}{article}{}{}
@@ -338,71 +342,6 @@
     \field{year}{2007}
   \endentry
 
-  \entry{fikkers_2016}{article}{}{}
-    \name{author}{4}{}{%
-      {{hash=FKM}{%
-         family={Fikkers},
-         familyi={F\bibinitperiod},
-         given={Karin\bibnamedelima M.},
-         giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
-      }}%
-      {{hash=PJT}{%
-         family={Piotrowski},
-         familyi={P\bibinitperiod},
-         given={Jessica\bibnamedelima Taylor},
-         giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod},
-      }}%
-      {{hash=LP}{%
-         family={Lugtig},
-         familyi={L\bibinitperiod},
-         given={Peter},
-         giveni={P\bibinitperiod},
-      }}%
-      {{hash=VPM}{%
-         family={Valkenburg},
-         familyi={V\bibinitperiod},
-         given={Patti\bibnamedelima M.},
-         giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod},
-      }}%
-    }
-    \list{language}{1}{%
-      {en}%
-    }
-    \strng{namehash}{FKM+1}
-    \strng{fullhash}{FKMPJTLPVPM1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{2016}
-    \field{extradate}{1}
-    \field{labeldatesource}{}
-    \field{sortinit}{F}
-    \field{sortinithash}{F}
-    \verb{doi}
-    \verb 10.1080/15213269.2015.1037960
-    \endverb
-    \field{issn}{1521-3269, 1532-785X}
-    \field{number}{1}
-    \field{pages}{4\bibrangedash 26}
-    \field{title}{The {Role} of {Perceived} {Peer} {Norms} in the
-  {Relationship} {Between} {Media} {Violence} {Exposure} and {Adolescents}'
-  {Aggression}}
-    \verb{url}
-    \verb http://www.tandfonline.com/doi/full/10.1080/15213269.2015.1037960
-    \endverb
-    \field{volume}{19}
-    \verb{file}
-    \verb Fikkers e.a. - 2016 - The Role of Perceived Peer Norms in the Relatio
-    \verb nsh.pdf:files/37/Fikkers e.a. - 2016 - The Role of Perceived Peer Nor
-    \verb ms in the Relationsh.pdf:application/pdf
-    \endverb
-    \field{journaltitle}{Media Psychology}
-    \field{month}{01}
-    \field{year}{2016}
-    \field{urlday}{03}
-    \field{urlmonth}{02}
-    \field{urlyear}{2020}
-  \endentry
-
   \entry{Fikkers_Piotrowski_Lugtig_Valkenburg_2016}{article}{}{}
     \name{author}{4}{}{%
       {{hash=FK}{%
@@ -435,7 +374,6 @@
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
     \field{labelyear}{2016}
-    \field{extradate}{2}
     \field{labeldatesource}{}
     \field{sortinit}{F}
     \field{sortinithash}{F}
@@ -506,67 +444,6 @@
     \field{volume}{81}
     \field{journaltitle}{Communication Monographs}
     \field{year}{2014}
-  \endentry
-
-  \entry{Hartmann_Möller_Krause_2015}{article}{}{}
-    \name{author}{3}{}{%
-      {{hash=HT}{%
-         family={Hartmann},
-         familyi={H\bibinitperiod},
-         given={T.},
-         giveni={T\bibinitperiod},
-      }}%
-      {{hash=MI}{%
-         family={Möller},
-         familyi={M\bibinitperiod},
-         given={I.},
-         giveni={I\bibinitperiod},
-      }}%
-      {{hash=KC}{%
-         family={Krause},
-         familyi={K\bibinitperiod},
-         given={C.},
-         giveni={C\bibinitperiod},
-      }}%
-    }
-    \list{language}{1}{%
-      {English}%
-    }
-    \list{publisher}{1}{%
-      {SAGE Publications Ltd}%
-    }
-    \strng{namehash}{HTMIKC1}
-    \strng{fullhash}{HTMIKC1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{2015}
-    \field{labeldatesource}{}
-    \field{sortinit}{H}
-    \field{sortinithash}{H}
-    \field{abstract}{%
-    Research has consistently shown that males play violent video games more
-  frequently than females, but factors underlying this gender gap have not been
-  examined to date. This approach examines the assumption that males play
-  violent video games more because they anticipate more enjoyment and less
-  guilt from engaging in virtual violence than females. This may be because
-  males are less empathetic, tend to morally justify physical violence more and
-  have a greater need for sensation and aggression in video game play than
-  females. Results of a path model based on survey data of 444 respondents and
-  using multi-step multiple mediation analyses confirm these assumptions. Taken
-  together, the findings of this study shed further light on the gender gap in
-  violent video game use.%
-    }
-    \verb{doi}
-    \verb 10.1177/1461444814533067
-    \endverb
-    \field{issn}{1461-4448}
-    \field{number}{11}
-    \field{pages}{1777\bibrangedash 1794}
-    \field{title}{Factors underlying male and female use of violent video
-  games}
-    \field{volume}{17}
-    \field{journaltitle}{New Media and Society}
-    \field{year}{2015}
   \endentry
 
   \entry{Hartmann_Klimmt_2017}{article}{}{}
@@ -687,6 +564,28 @@
     \field{volume}{159}
     \field{journaltitle}{Computers in Human Behavior}
     \field{year}{2024}
+  \endentry
+
+  \entry{RDR_Honor_System}{misc}{}{}
+    \name{author}{1}{}{%
+      {{hash=ME}{%
+         family={Makuch},
+         familyi={M\bibinitperiod},
+         given={Eddie},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ME1}
+    \strng{fullhash}{ME1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labeldatesource}{nodate}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+  \field{howpublished}{\url{https://www.gamespot.com/articles/red-dead-2-guide-to-honor-how-morality-and-the-hon/1100-6462777/}}
+    \field{note}{Accessed: 2026-01-17}
+    \field{title}{Red Dead 2 Guide To Honor: How Morality And The Honor System
+  Work}
   \endentry
 
   \entry{Miedzobrodzka_2023}{article}{}{}
@@ -1002,6 +901,46 @@
     \field{journaltitle}{The Scientific World Journal}
     \field{year}{2014}
     \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Wolpe_1968}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=WJ}{%
+         family={Wolpe},
+         familyi={W\bibinitperiod},
+         given={Joseph},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WJ1}
+    \strng{fullhash}{WJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1968}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{abstract}{%
+    Reciprocal inhibition is a process of relearning whereby in the presence of
+  a stimulus a non-anxiety-producing response is continually repeated until it
+  extinguishes the old, undesirable response. A variety of the techniques based
+  on reciprocal inhibition, such as systematic desensitization, avoidance
+  conditioning, and the use of assertion, are described in detail. Behavior
+  therapy techniques evaluated on the basis of their clinical efficacy are
+  found to have striking success over traditional psychoanalytic methods.
+  Currently, more comparative studies are required which will validate the
+  merit of behavior therapy in the psychotherapeutic field while experimental
+  research should continue to refine the techniques.%
+    }
+    \verb{doi}
+    \verb https://doi.org/10.1007/BF03000093
+    \endverb
+    \field{number}{3}
+    \field{pages}{234\bibrangedash 240}
+    \field{title}{Psychotherapy by reciprocal inhibition}
+    \field{journaltitle}{Conditional reflex: a Pavlovian journal of research
+  and therapy}
+    \field{year}{1968}
   \endentry
 \enddatalist
 \endinput
